@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using DiMissionfileParser.Parser.Models;
 
-namespace DiMissionfileParser.Parser
+namespace DiMissionfileParser.Parser.Functions
 {
     public static class MissionTextStatistics
     {

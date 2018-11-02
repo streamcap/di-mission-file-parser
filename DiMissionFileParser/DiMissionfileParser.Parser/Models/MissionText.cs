@@ -1,7 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using DiMissionfileParser.Parser.Functions;
 
-namespace DiMissionfileParser.Parser
+namespace DiMissionfileParser.Parser.Models
 {
     public class MissionText
     {

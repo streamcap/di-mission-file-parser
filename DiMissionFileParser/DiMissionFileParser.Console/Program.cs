@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using DiMissionfileParser.Parser;
+using DiMissionfileParser.Parser.Functions;
+using DiMissionfileParser.Parser.Models;
 
 namespace DiMissionFileParser.Console
 {

@@ -1,0 +1,45 @@
+﻿@model DiMissionfileParser.Parser.Models.MissionTextCampaign
+
+@{
+    ViewData["Title"] = "MissionTextCampaign";
+}
+
+<h2>MissionTextCampaign</h2>
+
+<div>
+    <h4>Campaign @Model.FileName</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dd>
+            @foreach (var text in Model.Situations)
+            {
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => text.Situation)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => text.Situation)
+                    </dd>
+                </dl>
+            }
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Successful)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Successful)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Failure)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Failure)
+        </dd>
+    </dl>
+</div>

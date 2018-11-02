@@ -1,0 +1,23 @@
+﻿@model System.Collections.Generic.List<DiMissionfileParser.Parser.Models.MissionText>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Mission files</h2>
+<table>
+    <tr>
+        <th>File name</th>
+        <th>String representation</th>
+        <th>Details</th>
+    </tr>
+    @foreach (var file in Model)
+    {
+        <tr>
+            <td>@file.FileName</td>
+            <td>@file.ToString()</td>
+            <td>@Html.ActionLink("Details", "Details", new{id = file.FileName})</td>
+        </tr>
+    }
+</table>

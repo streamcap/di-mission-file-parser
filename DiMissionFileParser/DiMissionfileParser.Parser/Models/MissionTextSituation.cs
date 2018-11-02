@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DiMissionfileParser.Parser
+namespace DiMissionfileParser.Parser.Models
 {
     public class MissionTextSituation : MissionText
     {
@@ -14,7 +14,7 @@ namespace DiMissionfileParser.Parser
 
         public override string ToString()
         {
-            return $"Situation: {Situation.Substring(0, 32)} ({FileName})";
+            return $"Situation: {Situation.Substring(0, 140)} ({FileName})";
         }
     }
 }

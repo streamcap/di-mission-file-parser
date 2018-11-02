@@ -1,7 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using DiMissionfileParser.Parser.Models;
 
-namespace DiMissionfileParser.Parser
+namespace DiMissionfileParser.Parser.Functions
 {
     public static class MissionTextParser
     {
@@ -21,10 +22,6 @@ namespace DiMissionfileParser.Parser
 
             foreach (var line in lines)
             {
-                if (line == ":EOF")
-                {
-                    break;
-                }
 
                 if (Nonlines.Contains(line))
                 {
@@ -40,6 +37,11 @@ namespace DiMissionfileParser.Parser
 
                     AddContentsToLabel(labels, pastlabel, contents);
                     contents = new List<string>();
+                    
+                    if (line == ":EOF")
+                    {
+                        break;
+                    }
 
                     labels[washedLine] = new List<string>();
                     pastlabel = washedLine;

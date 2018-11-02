@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace DiMissionfileParser.Parser
+namespace DiMissionfileParser.Parser.Models
 {
-    internal class MissionTextWithResult : MissionTextTitled
+    public class MissionTextWithResult : MissionTextTitled
     {
         public MissionTextWithResult(string fileName, Dictionary<string, IList<string>> labels, IList<string> lines)
             : base(fileName, labels, lines)
