@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace MissionTextParser
+namespace DiMissionfileParser.Parser
 {
     public static class MissionTextParser
     {

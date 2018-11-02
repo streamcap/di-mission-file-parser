@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiMissionFileParser.Console", "DiMissionFileParser.Console\DiMissionFileParser.Console.csproj", "{28D73FA6-B440-434E-8517-794BFCA22603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiMissionfileParser.Parser", "DiMissionfileParser.Parser\DiMissionfileParser.Parser.csproj", "{8F38C5DD-BC68-4CDF-BE86-DFD04D4BD565}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{28D73FA6-B440-434E-8517-794BFCA22603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28D73FA6-B440-434E-8517-794BFCA22603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28D73FA6-B440-434E-8517-794BFCA22603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F38C5DD-BC68-4CDF-BE86-DFD04D4BD565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F38C5DD-BC68-4CDF-BE86-DFD04D4BD565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F38C5DD-BC68-4CDF-BE86-DFD04D4BD565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F38C5DD-BC68-4CDF-BE86-DFD04D4BD565}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

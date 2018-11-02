@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MissionTextParser
+namespace DiMissionfileParser.Parser
 {
     public class MissionTextSituation : MissionText
     {

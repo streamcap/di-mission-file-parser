@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DiMissionfileParser.Parser\DiMissionfileParser.Parser.csproj" />
+  </ItemGroup>
+
 </Project>

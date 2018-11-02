@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace MissionTextParser
+namespace DiMissionfileParser.Parser
 {
     public static class MissionTextStatistics
     {
@@ -28,7 +28,7 @@ namespace MissionTextParser
             return string.Join(",", commonsLines);
         }
 
-        internal static void PrintStatistics(List<MissionText> missionTexts, Action<string> writeLine)
+        public static void PrintStatistics(List<MissionText> missionTexts, Action<string> writeLine)
         {
             var grouping = missionTexts.GroupBy(g => g.Labels.Count);
             foreach (var part in grouping)
