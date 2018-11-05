@@ -1,0 +1,17 @@
+:Title
+Apache Conversion
+:Description
+Helicopters: 1
+:Para
+Targets: Enemy vehicles at X
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 09:00
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+Use this first training mission to familiarize yourself with the Apache's handling characteristics, flight controls, navigation equipment, radar and weapon sighting systems (TADS and helmet-mounted sight). If you wish to use weapons during this flight, make sure that you do so only in the designated target area at waypoint X.
+:EOF

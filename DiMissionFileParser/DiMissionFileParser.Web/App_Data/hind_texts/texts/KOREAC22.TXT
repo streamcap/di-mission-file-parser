@@ -1,0 +1,17 @@
+:Title
+Special Forces Evacuation
+:Description
+Helicopters: 2
+:Para
+Targets: Air defences at X,Y and Z
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 08:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+Our special forces have attacked the Incheon radio and TV station to prevent transmissions of false and malicious propaganda. The attack has been successful and our glorious special forces are ready to be evacuated. Comrade, while Hip helicopters collect our heroes you are required to suppress any enemy ground fire.
+:EOF

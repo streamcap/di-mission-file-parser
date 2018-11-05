@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Hydra Rockets (M255)
+:Description
+Helicopters: 1
+:Para
+Targets: Practice APC's and trucks
+:Para
+Weapons: 76 rockets
+:Para
+Take-off time: 22:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Your Apache is armed with 76 Hydra rockets, fitted with the M255 warhead.  This warhead contains 2500 flechettes, for use against battlefield targets, trucks and other helicopters.  Use this mission to practice your target acquisition and IHADSS symbology.  Restrict the firing of your weapons to targets at waypoint X
+:EOF

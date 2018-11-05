@@ -1,0 +1,17 @@
+:Title
+Find and Destroy SCUD Missiles
+:Description
+Helicopters: 2
+:Para
+Targets: SCUD launchers, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 11:10
+:Para
+Flight time: 21 mins
+:Para
+Weather: Clear
+:Para
+Satellite photographs have located the enemy SCUD launchers that are terrorizing the civilian population of Seoul. You and your wingman must find and destroy the launchers while avoiding the considerable enemy air activity which includes MiG-29 Fulcrum air superiority fighters and Mil Mi-24 Hind helicopters.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Armored Counter-Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 17:25
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+Turkish forces have launched a heavily armored attack to recapture the UN troops rescued by allied forces. They have overwhelmed the Greek and allied forces and are in sight of achieving their objective. There is also the considerable danger that they could capture the airbase. Apache helicopters will execute air strikes against the enemy armor.
+:EOF

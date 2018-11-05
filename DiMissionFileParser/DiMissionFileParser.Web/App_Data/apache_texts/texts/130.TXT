@@ -1,0 +1,23 @@
+:Title
+Attack the Grounded Submarine S-353 Preveze
+:Description
+Helicopters: 2
+:Para
+Targets: S-353 Preveze Submarine
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 15:15
+:Para
+Flight time: 18 mins 
+:Para
+Weather: Clear
+:Para
+The enemy submarine S-353 Preveze ran aground while laying mines in the allied total exclusion zone to the south of Famagusta. F16 fighters and SuperCobra helicopters are providing air cover while the Turkish navy use a tug to try and re-float the exposed craft. You will attack and destroy the helicopters, submarine and tug while F14's from the carrier USS George Washington engage the F16's.
+:Outstanding
+All of the objectives were achieved with the submarine and tug both sunk and several aircraft shot down. The Apache crews have excelled themselves.
+:Success
+The main objective of the mission was achieved with the submarine being sunk.
+:Failure
+The failure to sink the submarine has given the enemy enough time to refloat it and resume the mine-laying mission.
+:EOF

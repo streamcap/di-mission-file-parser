@@ -1,0 +1,23 @@
+:Title
+Remote Bombing Of A Strategic Bridge
+:Description
+Helicopters: 3
+:Para
+Targets: Laser designate bridge, air defences
+:Para
+Weapons: S5, R60, 9M114
+:Para
+Take-off time: 06:23
+:Para
+Flight time: 14 mins
+:Para
+Weather: Clear
+:Para
+In order to disrupt enemy supplies it is essential to destroy a bridge over the Han-Gang river. Comrade, you are required to eliminate the weak air defences and then laser designate the bridge by 06:30 for an attack by our powerful MiG 27's.
+:Outstanding
+The total destruction of this strategic bridge is a tremendous achievement for the Hind pilots. Comrade, the enemy's miserable troops are isolated and about to be attacked by our glorious forces.
+:Success
+Destruction of this choke point has stopped the enemy's supplies from reaching the front-line. Comrade, you have executed your mission well.
+:Failure
+Failure to destroy this strategic target has allowed the enemy to strengthen their forces and launch a major counter-attack. Comrade, your performance must improve dramatically if our brave troops are to succeed.
+:EOF

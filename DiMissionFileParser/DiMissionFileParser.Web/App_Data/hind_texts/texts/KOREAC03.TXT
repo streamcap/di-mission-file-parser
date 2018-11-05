@@ -1,0 +1,17 @@
+:Title
+Forward Base Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Enemy base
+:Para
+Weapons: UPK23,S8, 9M114
+:Para
+Take-off time: 10:30
+:Para
+Flight time: 9 mins
+:Para
+Weather: Overcast
+:Para
+Our deceitful enemy has located a temporary base in the vicinity of the Han-Gang river. Comrade, you are required to attack the base by eliminating its defences and then destroying any remaining aircraft and ground equipment.
+:EOF

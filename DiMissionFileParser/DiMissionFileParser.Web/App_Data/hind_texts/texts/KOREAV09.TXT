@@ -1,0 +1,23 @@
+:Title
+Combat Air Patrol
+:Description
+Helicopters: 4
+:Para
+Targets: Aircraft, Helicopters
+:Para
+Weapons: UPK23, 9M114
+:Para
+Take-off time: 5:50
+:Para
+Flight time: 10 mins
+:Para
+Weather: Light fog
+:Para
+Comrade, protection of high value targets from enemy attack is a high priority. You are required to fly Combat Air Patrol over your air base. Enemy air activity is high so be prepared.
+:Outstanding
+Comrade, your daring and spectacularly successful defence of this key air base has won you widespread admiration and praise from the airfield personnel. Promotion cannot be far away.
+:Success
+Comrade, your defence of this key air base has won you widespread admiration and praise from the airfield personnel.  Your superiors are delighted with your efforts.
+:Failure
+Comrade, your failure to protect the base from ruthless enemy attack has resulted in a catastrophic loss of life and equipment.  Your superiors are appalled at your incompetence.
+:EOF

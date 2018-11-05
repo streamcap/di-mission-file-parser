@@ -1,0 +1,17 @@
+:Title
+Silkworm Missile Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Silkworm missiles sites
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:40
+:Para
+Flight time: 18 mins
+:Para
+Weather: Clear
+:Para
+Several Silkworm missiles have been fired at the task force from sites near Al 'Adan. Although all of the missiles have been safely intercepted the task force is retreating from the area. You will attack the missile sites while other Apaches engage the AAA and SAM sites.
+:EOF

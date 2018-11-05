@@ -1,0 +1,17 @@
+:Title
+Remote Bombing of a Strategic Bridge
+:Description
+Helicopters: 4
+:Para
+Targets: Bridge at X, deploy troops at Y, fortifications at Z
+:Para
+Weapons: S5, FAB250, 9M114
+:Para
+Take-off time: 05:45
+:Para
+Flight time: 24 mins
+:Para
+Weather: Clear
+:Para
+Several key bridges across the Han-Gang river must be destroyed in order to protect our great army's eastern flank. You, comrade, must clear air defences around your allocated target and laser designate it by 06:00 for the bombing by our powerful Mig-27's. Once the bridge is destroyed, deploy your formidable special forces to secure the area and then proceed to bomb the enemy fortifications on the eastern bank.
+:EOF

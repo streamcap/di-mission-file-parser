@@ -1,0 +1,7 @@
+:Situation
+
+:Stalemate
+
+:Failure
+
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Pilot Rescue
+:Description
+Helicopters: 2
+:Para
+Targets: Rescue pilots at X, Y and Z
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 13:05
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+Enemy defences have shot down several of our glorious pilots as they were flying vital missions over enemy territory. The positions of our pilots are known from their powerful rescue beacons. Comrade, fly to each area and rescue our brave aircrew. Our vindictive enemy may attempt a surprise ambush so check each area carefully before landing.
+:Outstanding
+Comrade, all of our courageous pilots have been rescued. Congratulations.  You have helped return them to front-line duties to claim more victories in the name of our glorious motherland.
+:Success
+Comrade, most of our brave pilots have been rescued.  Well done. You have helped return them to front-line duties to claim more victories in the name of our glorious motherland.
+:Failure
+Your dismal attempt to rescue our courageous pilots has been noted. Another crew has been despatched to complete the task.
+:EOF

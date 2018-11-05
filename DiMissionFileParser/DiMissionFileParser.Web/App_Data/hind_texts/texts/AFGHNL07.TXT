@@ -1,0 +1,7 @@
+:Situation
+The ruthless terrorists have built a defensive strong point just behind the front-line. Our courageous special forces are to be deployed behind the enemy and a minefield laid to prevent retreat. After an initial air and artillery bombardment, our task force will advance and engage the doomed enemy in a classic hammer and anvil attack.
+:Stalemate
+The attack has failed to destroy the guerrilla strong point. Comrade, your superiors are demanding that you repeat the mission and finish the job properly.
+:Failure
+Your miserable failure has allowed the spiteful enemy to counter-attack and stall the allied offensive. The allies have suffered heavy casualties as a result of your incompetence.  Your superiors are losing confidence in the effectiveness of the Hind crews.
+:EOF

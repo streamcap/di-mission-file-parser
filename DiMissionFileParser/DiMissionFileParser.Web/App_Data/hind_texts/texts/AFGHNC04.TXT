@@ -1,0 +1,17 @@
+:Title
+Supply Convoy Attack
+:Description
+Helicopters:3
+:Para
+Targets:Enemy Supply Convoys
+:Para
+Weapons:FAB250, Rockets, 9M114
+:Para
+Take-off time:12:00
+:Para
+Flight time:7 mins
+:Para
+Weather:Clear
+:Para
+The Mujaheddin need a constant supply of ammunition to sustain their attack. Comrade, you are instructed to search your flight route and destroy any supply convoys encountered.  Expect the terrorists to be armed with shoulder-launched SAMs.
+:EOF

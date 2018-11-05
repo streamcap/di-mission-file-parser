@@ -1,0 +1,17 @@
+:Title
+Battlefield Search and Destroy
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, Artillery, Trucks
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 18:05
+:Para
+Flight time: 20 mins
+:Para
+Weather: Overcast
+:Para
+Allied high command now wants to soften up and eliminate as many of the enemy forces as possible with a major coordinated air and artillery assault. You are free to engage any type of enemy vehicle encountered in the forward battle area. Expect the enemy air defenses and remaining airborne units to resist strongly.
+:EOF

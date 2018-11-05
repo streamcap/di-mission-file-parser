@@ -1,0 +1,17 @@
+:Title
+Truck Convoy Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Trucks, APC's, SAM's, AAA
+:Para
+Weapons: S8, R60, 9M114
+:Para
+Take-off time: 06:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+A convoy of rebel trucks travelling north has been identified by our brave forces. Comrade, you are required to locate and destroy these cowardly rebels.
+:EOF

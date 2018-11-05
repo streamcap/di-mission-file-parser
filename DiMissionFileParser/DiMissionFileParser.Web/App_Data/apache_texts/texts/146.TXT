@@ -1,0 +1,23 @@
+:Title
+APACHE - Supply Convoy Attack
+:Description
+Helicopters:
+:Para
+Targets:
+:Para
+Weapons:
+:Para
+Take-off time:
+:Para
+Flight time:
+:Para
+Weather:
+:Para
+An enemy supply convoy has been located heading for the front-line. The vehicles are being escorted by Hind helicopters. You are required to attack the Hinds with your Stinger missiles and then destroy the supply convoy.
+:Outstanding
+The total destruction of the enemy helicopters and their supply convoy has been a major blow for the enemy. As a result of your achievements, our troops have made major advances.
+:Success
+The destruction of  the supply convoy has stopped the enemy from launching a major counter-attack. This will be a severe blow against enemy morale.
+:Failure
+Your failure has allowed the enemy to re-supply their front line troops. Your flying days are limited if your performance does not improve dramatically!
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Headquarters Attack
+:Description
+Helicopters: 4
+:Para
+Targets: HQ, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 16:10
+:Para
+Flight time: 19 mins
+:Para
+Weather: Overcast
+:Para
+A surprise attack is planned against enemy main battlefield headquarters. If the Apache attack is successful it will throw the enemy command structure into disarray. The site is well camouflaged, difficult to locate and exceptionally well defended.
+:EOF

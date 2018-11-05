@@ -1,0 +1,17 @@
+:Title
+Artillery Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Air defences
+:Para
+Weapons: UPK23,S8, 9M114
+:Para
+Take-off time: 11:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+Our cunning intelligence forces have located enemy artillery positions. You are required to attack the air defences while your brave comrades destroy the artillery.
+:EOF

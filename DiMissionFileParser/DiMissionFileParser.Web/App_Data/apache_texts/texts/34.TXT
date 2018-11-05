@@ -1,0 +1,17 @@
+:Title
+Armored Assault
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, Send armor positions
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 04:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+Initially you must destroy as much enemy armor as possible in the forward battle area. Once you have used all of your Hellfire missiles your role will be forward artillery controller. Locate the coordinates of any remaining enemy targets and transmit their position to the local allied artillery unit.
+:EOF

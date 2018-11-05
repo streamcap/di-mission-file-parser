@@ -1,0 +1,17 @@
+:Title
+Destroy Highway Fortifications
+:Description
+Helicopters: 4
+:Para
+Targets: Artillery, Tanks, APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 19:10
+:Para
+Flight time: 26 mins
+:Para
+Weather: Clear
+:Para
+Government forces are using a village near the highway as a fortified area. Armored vehicles and artillery are hidden amongst the buildings. Special forces with laser ranging equipment have been dropped into the area and will designate the major targets for the Apaches to destroy. The Apaches will then provide covering fire while Marines are dropped into the area.
+:EOF

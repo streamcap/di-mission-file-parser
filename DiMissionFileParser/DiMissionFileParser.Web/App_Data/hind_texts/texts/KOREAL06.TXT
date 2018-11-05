@@ -1,0 +1,7 @@
+:Situation
+Our brave and successful troops will now advance from the bridgehead towards Incheon. Comrades, use your Hind helicopters to blaze a path though any defensive positions of the feeble enemy and provide battlefield support to our brave forces.
+:Stalemate
+Comrade, you must try harder to help our glorious troops achieve their objectives.  Your performance is inadequate.
+:Failure
+The ruthless enemy has launched a counter-attack, forcing our brave soldiers to make a tactical retreat over the Han-Gang river. A new invasion force must be launched before the ruthless enemy has time to establish its defences. Comrades, your superiors are disappointed with your failure to fulfil their expectations.
+:EOF

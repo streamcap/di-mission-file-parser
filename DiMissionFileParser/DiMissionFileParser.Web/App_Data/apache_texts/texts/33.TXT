@@ -1,0 +1,17 @@
+:Title
+Supply Barge Strike
+:Description
+Helicopters: 2
+:Para
+Targets: Military supply barges, Air defenses
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 16:10
+:Para
+Flight time: 18 mins
+:Para
+Weather: Overcast
+:Para
+Intelligence sources have confirmed that a convoy of civilian barges are carrying military equipment. They are mixing with legitimate civilian traffic so you must carefully identify them before attacking. It is not known if they have any air defense armament.
+:EOF

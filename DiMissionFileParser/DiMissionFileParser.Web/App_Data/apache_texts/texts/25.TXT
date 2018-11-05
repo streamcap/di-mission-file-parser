@@ -1,0 +1,17 @@
+:Title
+Artillery Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Artillery, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 20:15
+:Para
+Flight time: 16 mins
+:Para
+Weather: Overcast
+:Para
+Allied positions are under heavy bombardment from camouflaged artillery. Radar shell tracking has located the approximate area of the artillery some distance behind the front line. You must penetrate the air defenses, then locate and destroy as many of the guns as possible.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+APACHE - Attack the Enemy Fleet
+:Description
+Helicopters:
+:Para
+Targets:
+:Para
+Weapons:
+:Para
+Take-off time:
+:Para
+Flight time:
+:Para
+Weather:
+:Para
+An enemy task force of several Osa II gunboats has attacked allied ships in Inch'on harbour. Enemy helicopters have been identified on our radar flying towards the task force. You have no time to lose. You are expected to dispose of the incoming threat and then destroy the task force.
+:Outstanding
+Justice has been done with the total destruction of the enemy task force and the accompanying Hind helicopters. The whole nation is rejoicing at the success of the Apache crews.
+:Success
+The successful attack on the enemy's task force is a credit to your squadron. This major achievement has been reported to the nation.
+:Failure
+Your failure to dispose of the enemy gunboats is deplorable. Such incompetence will not be tolerated. You will attend an intensive course of training.
+:EOF

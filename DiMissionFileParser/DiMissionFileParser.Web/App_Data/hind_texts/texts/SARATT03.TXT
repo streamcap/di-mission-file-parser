@@ -1,0 +1,17 @@
+:Title
+Weapons Training - 9M114 (AT-6) Spiral Missile
+:Description
+Helicopters: 1
+:Para
+Targets: Vehicles at X
+:Para
+Weapons: 9M114
+:Para
+Take-off time: 19:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+The powerful AT-6 Spiral air-to-surface missile is the Hind's main weapon for use against armoured vehicles and hardened ground targets. Comrade, your Hind is armed with eight of these awesome weapons for attacking targets at waypoint X. Practise with and without the assistance of the silicon Weapon Systems Operator.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Operational Training - Troop Deployment
+:Description
+Helicopters: 1
+:Para
+Targets: Deploy troops at X
+:Para
+Weapons: None
+:Para
+Take-off time: 11:00
+:Para
+Flight time: 5 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, eight fully equipped brave troops are aboard your Hind for deployment at waypoint X. Once you have landed, open the cargo doors and await clearance from the flight engineer before closing the doors and taking-off.
+:EOF

@@ -1,0 +1,7 @@
+:Situation
+Our relief column has reached the outskirts of the capital Akmola. However, heavy fighting is reported between the cowardly rebels and our brave forces as they advance towards the airport. It is essential that the airfield be captured quickly as it is needed by the allies as a strategic base. Rebel air activity is high.
+:Stalemate
+Comrade, your inadequate air support has resulted in little progress being made against the warmongering rebel forces. The Hind pilots must improve their effectiveness if this operation is to succeed.
+:Failure
+Comrade, your failure to provide effective air support has prevented our courageous troops from reaching the airfield. Highly mobile, aggressive rebel units are trying to outflank and surround our troops.
+:EOF

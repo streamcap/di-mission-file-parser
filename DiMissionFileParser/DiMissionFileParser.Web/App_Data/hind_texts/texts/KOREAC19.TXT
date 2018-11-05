@@ -1,0 +1,17 @@
+:Title
+Harbour Deployment
+:Description
+Helicopters: 2
+:Para
+Targets: Air defences at X,Y and Z
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 20:30
+:Para
+Flight time: 7 mins
+:Para
+Weather: Clear
+:Para
+Our brave special forces are to be deployed in the harbour in order to secure the dock facilities, warehousing and transport ships. Comrade, the area contains strong air defences which must be neutralised before our troops can be deployed.
+:EOF

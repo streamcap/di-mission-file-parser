@@ -1,0 +1,17 @@
+:Title
+Secure the food Warehouses
+:Description
+Helicopters: 2
+:Para
+Targets: Escort to X and Y
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 20:30
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+Comrade, you are required to escort a formation of Hip helicopters to several food distribution centres. Suppress any malicious enemy ground fire while the Hips deploy our brave special forces and then escort them back to base.
+:EOF

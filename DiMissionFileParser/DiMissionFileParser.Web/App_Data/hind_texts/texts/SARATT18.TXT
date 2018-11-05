@@ -1,0 +1,17 @@
+:Title
+Operational Training - Evacuation of Casualties
+:Description
+Helicopters: 1
+:Para
+Targets: Evacuate casualties at X
+:Para
+Weapons: None
+:Para
+Take-off time: 15:00
+:Para
+Flight time: 7 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, as part of your training to peak operational efficiency, you need to practise the evacuation of casualties. Once you have landed, open the cargo doors, wait until your flight engineer informs you that the casualties are loaded, close the doors, then take-off and return to base.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Highway Ambush
+:Description
+Helicopters: 2
+:Para
+Targets: APC's, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 10:00
+:Para
+Flight time: 23 mins
+:Para
+Weather: Clear
+:Para
+Intelligence sources have indicated that the rebel forces are setting up an ambush point beside the main highway about 10 miles north of the airfield. The group seem to be well armed with APC's, AAA and SAM's. Locate the ambush and engage.
+:EOF

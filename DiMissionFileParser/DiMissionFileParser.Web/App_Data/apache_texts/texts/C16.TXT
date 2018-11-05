@@ -1,0 +1,5 @@
+:Situation
+The airfield assembly area is still under sporadic attack. This must be stopped before the evacuation can begin. It is proposed that the government forces be weakened by attacking their lines of communication, positions and armour. 
+:Failure
+Failure has allowed the government forces to repair the shore-based missile sites and gun batteries. The task force in under renewed bombardment and is retreating to a safe distance.
+:EOF

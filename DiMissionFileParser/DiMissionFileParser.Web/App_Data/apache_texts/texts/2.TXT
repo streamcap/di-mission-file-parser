@@ -1,0 +1,18 @@
+:Title
+Long Range Bombardment
+:Description
+Helicopters: 4
+:Para
+Targets: Artillery
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 08:15
+:Para
+Flight time: 24 mins
+:Para
+Weather: Clear
+:Para
+Long range artillery is bombarding the assembly airfield. You are tasked with destroying the guns which are located to the north-east of the airfield. Avoid air defenses by making use of available cover.
+:EOF
+

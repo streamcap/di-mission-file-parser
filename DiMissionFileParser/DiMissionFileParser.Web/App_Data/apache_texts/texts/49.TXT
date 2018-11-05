@@ -1,0 +1,17 @@
+:Title
+Anti-Armor Strike
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 08:40
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+Turkish forces are now well inside Greek territory and are attempting to surround the capital Nicosia. An armored column has almost reached the main road to Limassol which the Greeks are using to supply and reinforce the capital. The Apaches are required to destroy the advancing armor so that Nicosia is not cut-off.
+:EOF

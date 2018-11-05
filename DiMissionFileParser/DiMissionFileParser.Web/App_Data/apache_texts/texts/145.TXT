@@ -1,0 +1,23 @@
+:Title
+APACHE - Fleet Defender
+:Description
+Helicopters:
+:Para
+Targets:
+:Para
+Weapons:
+:Para
+Take-off time:
+:Para
+Flight time:
+:Para
+Weather:
+:Para
+Allied frigates have staged a successful attack against enemy shipping in Haeju harbour. Allied radar systems have detected enemy helicopters flying towards the allied task force. Scramble and defend our ships against the counter-attack.
+:Outstanding
+Your prompt response and brilliant defensive action has enabled our ships to return home safely.  Congratulations on an outstanding performance.
+:Success
+Your successful defence of the task force has enabled the frigates to return home with minimal losses.
+:Failure
+The loss of several frigates has been a major blow to our naval strength. Their senior commander has demanded an immediate enquiry into the effectiveness of the Apache crews.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Evacuate Casualties
+:Description
+Helicopters: 2
+:Para
+Targets: Mujaheddin at X, rescue at Y
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 08:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Seriously injured allied troops need to be evacuated urgently from the front-line and taken to a field hospital. Comrade, at the first pick up point you are required to suppress any ground fire while your wingman picks up casualties. You must then proceed to the second pick up point where your wingman will provide cover while you collect the injured.
+:Outstanding
+Comrade, your heroic service and successful recovery of the casualties is a credit to your squadron.  Congratulations.
+:Success
+Comrade, your performance on this humanitarian mission is a credit to your squadron.
+:Failure
+Comrade, your failure to recover the casualties has condemned the brave troops to death. You are in disgrace.
+:EOF

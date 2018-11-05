@@ -1,0 +1,23 @@
+:Title
+Fleet Defender
+:Description
+Helicopters: 3
+:Para
+Targets: Apache helicopters
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 06:20
+:Para
+Flight time: 20 mins
+:Para
+Weather: Thick fog
+:Para
+Our glorious navy has staged a successful raid against complacent enemy shipping in Inch'on harbour using Osa II missile gunboats. Comrade, allied radar systems have detected enemy helicopters flying towards the allied task force. Scramble and defend our ships against the counter-attack.
+:Outstanding
+Comrade, your prompt response and brilliant defensive action has enabled our ships to return home safely. Congratulations on an outstanding performance.
+:Success
+Comrade, your successful defence of the task force has enabled our glorious navy to return home with minimal losses.
+:Failure
+Comrade, the sinking of our powerful Osa II gunboats has been a major blow to our naval strength. Their senior commander has demanded an immediate enquiry into the effectiveness of the Hind crews.
+:EOF

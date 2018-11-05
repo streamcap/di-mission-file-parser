@@ -1,0 +1,23 @@
+:Title
+Stop Enemy SCUD Attacks
+:Description
+Helicopters: 2
+:Para
+Targets: SCUD missile launchers
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 02:50
+:Para
+Flight time: 30 mins
+:Para
+Weather: Clear
+:Para
+Al 'Adan airfield has been attacked with SCUD missiles. Four launchers have been identified in reconnaissance photographs and are still believed to be in the area. There are a number of SAM and AAA air defense sites nearby so stay low as you hunt and destroy as many of the launchers as possible.
+:Outstanding
+The search and destroy mission has been very successful with no more SCUD missile attacks in the area. Congratulations.
+:Success
+The mission has succeeded in reducing the number of SCUD missile attacks at the airfield. 
+:Failure
+SCUD missiles are still hitting the allied positions regularly and causing casualties. High command were expecting much better results than this from their Apache crews.
+:EOF

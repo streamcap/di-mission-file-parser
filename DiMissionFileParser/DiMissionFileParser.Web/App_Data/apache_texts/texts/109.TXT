@@ -1,0 +1,24 @@
+:Title
+Locate And Destroy Enemy Supply Convoy
+:Description
+Helicopters: 4
+:Para
+Targets: Supply convoy trucks, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 07:00
+:Para
+Flight time: 19 mins
+:Para
+Weather: Thick fog
+:Para
+Supplies reaching the enemy front line are by solo trucks only, due to the effectiveness of the allied blockade. However, special forces have reported a supply convoy on the Kaesong to Seoul highway taking advantage of thick fog at dawn. You are tasked with locating and destroying as many of the trucks as possible. In the present weather conditions IR missiles pose no threat, but watch out for radar guided AAA and SAM's.
+:Outstanding
+This was a well executed mission in difficult weather conditions with all of the supply convoy being destroyed. 
+:Success
+Most of the convoy was destroyed in these difficult weather conditions with only a few vehicles making it to the front line.
+:Failure
+The enemy's gamble paid off with most of the vehicles reaching the front line due to the poor performance by the Apache crews.
+:EOF
+

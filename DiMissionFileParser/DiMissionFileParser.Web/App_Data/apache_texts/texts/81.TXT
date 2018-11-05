@@ -1,0 +1,23 @@
+:Title
+Support the Allied Ships in an Artillery Duel
+:Description
+Helicopters: 2
+:Para
+Targets: Artillery
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 16:30
+:Para
+Flight time: 15 mins 
+:Para
+Weather: Clear
+:Para
+Your helicopter assault ship has come under fire from shore-based artillery. The task force is laying down defensive fire and  is steaming away from the area as fast as possible. Scramble your helicopter immediately and take out the artillery before any damage is done.
+:Outstanding
+The rapid destruction of the enemy artillery means that the task force has suffered no damage and has remained on station. Your performance was excellent.
+:Success
+The task force has suffered only minor damage due to you silencing most of the artillery fire. However, the ships have moved further off shore which has introduced logistical problems. 
+:Failure
+Your failure to silence the artillery has resulted in two ships being damaged by enemy shells. The task force has now sailed out of range but this has caused major logistical problems. 
+:EOF

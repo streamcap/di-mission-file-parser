@@ -1,0 +1,24 @@
+:Title
+Battlefield Support
+:Description
+Helicopters: 2
+:Para
+Targets: Helicopters
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:17
+:Para
+Flight time: 14 mins
+:Para
+Weather: Clear
+:Para
+At least four enemy Hind helicopters are attacking allied armour just south of Munsan. Fly to the combat area as fast as possible and engage the Hind helicopters before they inflict major losses. With only you and your wingman armed and ready for action expect to be out-numbered. The interception will occur near the front line so keep low to avoid being engaged by the North Korean AAA and SAM air defences.
+:Outstanding
+Congratulations on destroying all of the enemy helicopters. That was a particularly dangerous mission. Your commander is glad to see you return safely.
+:Success
+The loss of some of the enemy helicopters has forced the enemy to retreat. Unfortunately, the allied armour suffered large losses and more attacks of this nature are expected.
+:Failure
+The Hind helicopters inflicted heavy losses on the allied armour before retreating. Allied High Command was expecting better results from the Apache crews and have recommended you for further training.
+:EOF
+

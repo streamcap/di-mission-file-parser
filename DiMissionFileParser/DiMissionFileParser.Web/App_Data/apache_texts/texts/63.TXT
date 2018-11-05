@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Hydra Rockets (M261)
+:Description
+Helicopters: 1
+:Para
+Targets: Practice battlefield armor
+:Para
+Weapons: 76 Rockets
+:Para
+Take-off time: 09:15
+:Para
+Flight time: 15 mins
+:Para
+Weather: Clear
+:Para
+Your Apache is armed with 76 Hydra rockets, fitted with the M261 warhead.  This multi-purpose unguided air-to-ground weapon may be used against armored vehicles, equipment and battlefield targets.  Restrict the firing of your weapons to targets at waypoint X. Try both automatic and manual pod elevation adjustment.
+:EOF

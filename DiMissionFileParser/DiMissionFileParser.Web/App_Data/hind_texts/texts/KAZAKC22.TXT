@@ -1,0 +1,17 @@
+:Title
+Destroy SCUD Launchers
+:Description
+Helicopters: 3
+:Para
+Targets: SCUD launchers
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 22:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, SCUD missile attacks are disrupting operations at the allied airfield. Our cunning intelligence forces have determined the approximate locations of the launchers.  Locate and destroy these cowardly weapons.
+:EOF

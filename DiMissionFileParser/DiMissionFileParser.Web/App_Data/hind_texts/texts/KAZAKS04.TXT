@@ -1,0 +1,23 @@
+:Title
+Air Base Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Aircraft
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 04:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+The fanatical rebel airforce is executing frequent raids on our glorious forces. Comrade, you must attack their air base in a co-ordinated assault by aircraft and helicopters. Focus on aircraft dispersed around the base and destroy their air defences. 
+:Outstanding
+Comrade, your destruction of the enemy's air base has given us air superiority in the area. High Command have expressed their satisfaction on the success of the brilliantly executed attack.
+:Success
+Comrade, the attack on the rebel's air base has dramatically reduced the number of air raids on our brave forces.
+:Failure
+The failure of your attack has allowed our hated enemy to increase the frequency of their air raids. Comrade, your poor performance is causing major problems for our brave allies. 
+:EOF

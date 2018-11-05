@@ -1,0 +1,5 @@
+:Situation
+During the evacuation the Apaches are required to escort transport helicopters and suppress any ground fire en-route to the assembly area. The transport helicopters are vulnerable to AAA and SAM's during landing, loading and taking-off. The task force ships also need protection form surface or air threats.
+:Failure
+The poor performance by the Apache force has lead to evacuation being suspended. Transport helicopters have been lost with civilian and military casualties.  The task force is under imminent attack from missile gunboats. Reconnaissance has located more fishing vessels acting suspiciously. High command are most disappointed with the Apache pilots' performance during the evacuation, especially yours.
+:EOF

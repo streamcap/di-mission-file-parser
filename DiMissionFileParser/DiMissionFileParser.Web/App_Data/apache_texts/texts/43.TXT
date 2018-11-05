@@ -1,0 +1,17 @@
+:Title
+Artillery Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Artillery
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:03
+:Para
+Flight time: 15 mins
+:Para
+Weather: Overcast
+:Para
+Greek and Turkish artillery are exchanging fire just north of the airfield and there is a danger that the airbase will be hit. Their approximate locations are known from radar shell tracking equipment. Your task is to locate and destroy the Turkish artillery amongst the numerous air defenses.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Eliminate the Enemy Air Defences
+:Description
+Helicopters: 4
+:Para
+Targets: SAM's, AAA
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 03:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Overcast
+:Para
+Allied aircraft operating over the capital have encountered AAA and SAM attacks from the fanatical rebels. Comrade, you must eliminate their air defence units while other Hind helicopters target the ground forces.
+:EOF

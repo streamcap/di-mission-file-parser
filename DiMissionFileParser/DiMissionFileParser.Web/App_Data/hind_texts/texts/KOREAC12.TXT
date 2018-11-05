@@ -1,0 +1,17 @@
+:Title
+Destroy the Artillery
+:Description
+Helicopters: 4
+:Para
+Targets: Mortars at X, artillery at Y
+:Para
+Weapons: S5,S8,9M114
+:Para
+Take-off time: 13:30
+:Para
+Flight time: 8 mins
+:Para
+Weather: Overcast
+:Para
+Our landing craft and bridgehead have come under artillery fire from an enemy position several miles inland. Locate and destroy the artillery while your comrade Hind pilots suppress the air defences.
+:EOF

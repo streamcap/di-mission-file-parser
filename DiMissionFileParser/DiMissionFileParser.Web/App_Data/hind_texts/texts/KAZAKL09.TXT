@@ -1,0 +1,7 @@
+:Situation
+Comrade, intense house to house fighting is taking place as our brave troops attempt to link with the Kazak forces. Hind helicopters are required to attack rebel positions located amongst the buildings in support of our courageous allies. To make matters worse, the operation of our air base is being disrupted by cowardly SCUD missile attacks.
+:Stalemate
+The ineffective contribution of the Hind crews has left our courageous allies pinned down by the barbaric rebels. This campaign is being protracted by your incompetence.
+:Failure
+The ruthless enemy has successfully repelled the allied attack. Comrade, the cunning rebels have strengthened their defences and negated any benefit from our previous missions. Your failure to stop the cowardly SCUD attacks has resulted in a considerable weakening of allied morale.
+:EOF

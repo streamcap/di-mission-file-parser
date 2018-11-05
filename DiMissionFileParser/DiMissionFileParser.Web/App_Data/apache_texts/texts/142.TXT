@@ -1,0 +1,23 @@
+:Title
+Defence of a Strategic Bridge
+:Description
+Helicopters:
+:Para
+Targets:
+:Para
+Weapons:
+:Para
+Take-off time:
+:Para
+Flight time:
+:Para
+Weather:
+:Para
+Enemy air activity has been reported in the vicinity of a bridge over the Han-Gang river. The helicopters have attacked our air defences and are now loitering in the area. Engage the aircraft as quickly as possible in order to to minimise any further damage.
+:Outstanding
+Your outstanding success in destroying the enemy helicopters has earned you a personal thank you from the president.  Your action has saved a vital bridge from destruction.
+:Success
+Your prompt action has saved a vital bridge from destruction.  Your contribution on this mission has been noted by your superiors.
+:Failure
+The loss of the strategic bridge will have a major detrimental effect on getting supplies to the front-line. The president has expressed concern about our inadequate response to the enemy threat.
+:EOF

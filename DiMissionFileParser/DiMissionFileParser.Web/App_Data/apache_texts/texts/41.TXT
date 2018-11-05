@@ -1,0 +1,17 @@
+:Title
+Helicopter Intercept
+:Description
+Helicopters: 2
+:Para
+Targets: Helicopters
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:03
+:Para
+Flight time: 5 mins
+:Para
+Weather: Overcast
+:Para
+"Scramble, Scramble, four unidentified helicopters have been detected flying towards the airbase at low level".  Intercept them and defend your airfield from attack. Turkish F16's to the north are covering the helicopters but will be engaged by F14's if they intervene.
+:EOF

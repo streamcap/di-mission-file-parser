@@ -1,0 +1,17 @@
+:Title
+Aircrew rescue
+:Description
+Helicopters: 2
+:Para
+Targets: Troops, armour at X, rescue at X and Y
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time:
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Several courageous pilots shot down over enemy territory have been located by their survival transmitters. Comrade, you are required to evacuate them. If a transmitter has fallen into enemy hands, there may be an ambush.  Be on your guard.
+:EOF

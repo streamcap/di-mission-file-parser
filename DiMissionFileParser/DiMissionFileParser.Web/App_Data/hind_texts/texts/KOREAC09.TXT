@@ -1,0 +1,17 @@
+:Title
+Airfield Strike
+:Description
+Helicopters: 4
+:Para
+Targets: Airfield installations at X and Y
+:Para
+Weapons: UPK23,S8, 9M114
+:Para
+Take-off time: 09:00
+:Para
+Flight time: 19 mins
+:Para
+Weather: Overcast
+:Para
+The enemy's command structure has been thrown into disarray but their aircraft still pose a considerable threat to our forces. Destroy the aircraft on the ground and then turn your attention to the airfield installations. Do not waste ammunition on the hardened aircraft shelters. 
+:EOF

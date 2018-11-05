@@ -1,0 +1,23 @@
+:Title
+Shipping Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Helicopter assault ship, Frigates
+:Para
+Weapons: FAB500, rockets, 9M114
+:Para
+Take-off time: 17:58
+:Para
+Flight time: 15 mins
+:Para
+Weather: Clear
+:Para
+An enemy task force containing a helicopter assault ship and several frigates is approaching the motherland. Comrade, you are required to participate in a combined operation to destroy these misguided forces. Begin by bombing the assault ship and then use your 80mm rockets to inflict further damage. At 18:05 you are required to laser designate each of the condemned ships in turn for an attack by our mighty MiG 27's using precision laser-guided bombs.
+:Outstanding
+Comrade, the total destruction of this villainous task force and its criminal threats will go down in the annals of military history of our great and glorious nation.
+:Success
+Comrade, the destruction of this villainous task force has been a great and glorious victory for our magnificent motherland.
+:Failure
+Your failure to prevent the villainous task force from executing its attack on one our major military bases has brought you the displeasure of your superiors. Comrade, you are severely reprimanded.
+:EOF

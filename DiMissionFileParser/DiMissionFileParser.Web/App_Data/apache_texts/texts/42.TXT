@@ -1,0 +1,17 @@
+:Title
+Allied Air Strike
+:Description
+Helicopters: 2
+:Para
+Targets: Stores dump, EWR site
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 06:03
+:Para
+Flight time: 16 mins
+:Para
+Weather: Overcast
+:Para
+The allies have decided to respond to the Turkish aggression by launching a series of air strikes. You must attack and destroy an enemy stores dump and a mobile EWR site located near the border. The Turkish forces are on high alert so expect their air defenses to react to this border incursion.
+:EOF

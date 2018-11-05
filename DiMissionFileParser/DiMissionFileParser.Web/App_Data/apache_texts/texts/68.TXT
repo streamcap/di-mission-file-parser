@@ -1,0 +1,17 @@
+:Title
+Precision Landing
+:Description
+Helicopters: 1
+:Para
+Targets: None
+:Para
+Weapons: None
+:Para
+Take-off time: 08:30
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Combat operations will require you to take-off from and land on a moving ship.  Unfortunately we cannot provide you with an aircraft carrier at Fort Hood so we suggest that you practice landing at a precise location with crosswinds. You are not cleared to fire any weapons on this flight.  Do not approach any target areas.
+:EOF

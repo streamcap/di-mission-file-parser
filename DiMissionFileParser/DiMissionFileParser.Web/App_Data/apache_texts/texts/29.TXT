@@ -1,0 +1,17 @@
+:Title
+EWR Strike
+:Description
+Helicopters: 4
+:Para
+Targets: EWR sites, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:25
+:Para
+Flight time: 22 mins
+:Para
+Weather: Thick fog
+:Para
+As part of a strike on the nuclear bunker, four EWR sites in enemy territory need to be attacked and destroyed. The Apaches have been chosen for this task because of their ability to fly nap-of-the-earth operations. The route avoids known air defenses but expect to meet strong opposition at the EWR sites.
+:EOF

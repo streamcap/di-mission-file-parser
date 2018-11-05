@@ -1,0 +1,23 @@
+:Title
+Blunt the Enemy Counter Attack
+:Description
+Helicopters: 4
+:Para
+Targets: APC's, Fortifications
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 06:15
+:Para
+Flight time: 24 mins
+:Para
+Weather: Clear
+:Para
+Allied troops have secured a landing area north of Al 'Adan and set up a defensive line around the perimeter. The Yemen forces are now counter-attacking using APC's to move their troops forward and provide covering fire. Allied forces urgently need close air support if they are not to concede ground and suffer heavy casualties. The enemy APC's are well defended against air attack with ZSU-23-4 mobile AAA and SA-6 radar guided and SA-9 infra-red SAM's.
+:Outstanding
+Destruction of all of the APC's by the Apaches has allowed allied troops to repel a feeble enemy counter-attack with minimal casualties. A good job done.
+:Success
+The Apaches' destruction of most of the APC's has allowed the allies to repel the counter-attack but at the cost of some casualties.
+:Failure
+The enemy counter-attack has been a partial success due to inadequate support by the Apaches. Allied troops have skillfully defended the area but have conceded ground after suffering heavy casualties .
+:EOF

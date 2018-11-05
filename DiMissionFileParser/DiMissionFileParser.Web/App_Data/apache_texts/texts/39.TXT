@@ -1,0 +1,17 @@
+:Title
+Ground Troop Support
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, Artillery, Trucks
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 18:05
+:Para
+Flight time: 13 mins
+:Para
+Weather: Overcast
+:Para
+A large enemy armored column is retreating along the main highway back to North Korea. It has made contact with allied troops on the border and heavy fighting is taking place. Apache helicopter strikes are needed in order to stop the armor from breaking through.
+:EOF

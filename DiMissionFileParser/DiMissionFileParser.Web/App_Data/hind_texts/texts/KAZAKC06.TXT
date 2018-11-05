@@ -1,0 +1,17 @@
+:Title
+Intercept the Enemy Hinds
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 17:00
+:Para
+Flight time: 7 mins
+:Para
+Weather: Overcast
+:Para
+Several rebel Hind helicopters are attacking our armoured column. Comrade, scramble immediately and intercept the aircraft.  Your Hind has been fitted with cannon pods and R60 air-to-air missiles for maximum effectiveness in this air interception role.
+:EOF

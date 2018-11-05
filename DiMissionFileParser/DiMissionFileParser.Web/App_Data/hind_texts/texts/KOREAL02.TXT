@@ -1,0 +1,7 @@
+:Situation
+The cowardly enemy has launched several air strikes and an artillery bombardment against our brave forces on the northern bank of the Han-Gang river. Comrades, we must counter-attack and destroy the units before launching our invasion.
+:Stalemate
+The enemy's airforce and artillery are still too strong for our invasion to begin. Comrades, show our foes no mercy when you launch further attacks.
+:Failure
+The enemy's counter-attack has reached the banks of the Han-Gang river. Our spiteful foes are expected to pursue our ground forces into the motherland. Comrades, your effectiveness must improve if  we are to avoid a  total disaster.
+:EOF

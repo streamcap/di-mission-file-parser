@@ -1,0 +1,17 @@
+:Title
+Forward Battle Area Support
+:Description
+Helicopters: 4
+:Para
+Targets: Air defenses, Send armor positions
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 04:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Clear
+:Para
+Initially you must provide air defense suppression while the rest of your squadron attack battlefield armor. Then from zero-four ten hours use your laser designator to pin-point any remaining armor for destruction by laser-guided bombs from F18 aircraft.
+:EOF

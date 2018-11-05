@@ -1,0 +1,23 @@
+:Title
+Anti-Artillery Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Artillery at X and Y
+:Para
+Weapons: UPK23, rockets, 9M114
+:Para
+Take-off time: 07:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Overcast
+:Para
+Our courageous invasion forces are on the northern shore of the Han-Gang river with barbaric enemy artillery bombarding the area. Comrade, you must attack the artillery while our other brave pilots destroy their miserable air defences.
+:Outstanding
+Comrade, the total destruction of the miserable enemy artillery means our magnificent ground forces have launched their glorious invasion to liberate South Korea.
+:Success
+Comrade, the partial destruction of the vicious enemy artillery has allowed our brilliant invasion to go ahead but regrettably with some allied casualties.
+:Failure
+Your failure to destroy the enemy artillery has allowed their vindictive bombardment to damage much of our invasion equipment. Comrade, the invasion has been postponed until you have completed further training.
+:EOF

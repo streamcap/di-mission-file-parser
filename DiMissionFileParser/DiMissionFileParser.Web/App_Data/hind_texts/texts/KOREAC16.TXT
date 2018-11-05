@@ -1,0 +1,17 @@
+:Title
+Anti-Helicopter Sweep
+:Description
+Helicopters: 2
+:Para
+Targets: Helicopters
+:Para
+Weapons: UPK23, 9M114
+:Para
+Take-off time: 19:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+Allied troops defending the eastern flank are suffering frequent attacks from enemy helicopters. You are required to make a sweep along the Han-Gang river to locate and destroy enemy helicopters in the area. You have been chosen specially for this particularly dangerous mission.
+:EOF

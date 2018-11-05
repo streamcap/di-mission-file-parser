@@ -1,0 +1,17 @@
+:Title
+Supply Dump Defense
+:Description
+Helicopters: 2
+:Para
+Targets: APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 05:45
+:Para
+Flight time: 6 mins
+:Para
+Weather: Clear
+:Para
+Reports are coming in of a special forces attack on an allied supply dump. You must scramble immediately, intercept the enemy helicopters and destroy enemy ground forces illuminated by allied laser designators. Make sure that you do not hit any of the allied supplies.
+:EOF

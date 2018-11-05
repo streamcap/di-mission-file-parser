@@ -1,0 +1,17 @@
+:Title
+Stop the Rebel Breakout
+:Description
+Helicopters: 3
+:Para
+Targets: Deploy troops at X, attack rebel forces
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 13:00
+:Para
+Flight time: 15 mins
+:Para
+Weather: Clear
+:Para
+The vindictive rebel forces are moving north to try and disrupt our supply lines. Comrade, you are required to deploy our special forces and then locate and destroy the miserable rebels.
+:EOF

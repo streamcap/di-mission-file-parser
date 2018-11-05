@@ -1,0 +1,23 @@
+:Title
+Defence of a Strategic Bridge
+:Description
+Helicopters: 2
+:Para
+Targets: Apache helicopters
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 06:24
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+Enemy air activity has been reported in the vicinity of a bridge over the Kesong-Gang river. The ruthless enemy helicopters have attacked our air defences and are now loitering in the area. Engage the aircraft as quickly as possible in order to minimize any further damage.
+:Outstanding
+Comrade, your outstanding success in destroying the enemy helicopters has earned you a personal thank you from our great and glorious leader. Your action has saved a vital bridge from destruction.
+:Success
+Comrade, your prompt action has saved a vital bridge from destruction. Your brave contribution on this mission has been noted by your superiors.
+:Failure
+The loss of the strategic bridge will have a major detrimental effect on getting supplies to the front-line. Our great and glorious leader has expressed concern about your inadequate response to the enemy threat.
+:EOF

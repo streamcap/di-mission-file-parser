@@ -1,0 +1,18 @@
+:Title
+Destroyer Counter-Strike
+:Description
+Helicopters: 2
+:Para
+Targets: Destroyers
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 20:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Overcast
+:Para
+Two Turkish destroyers are shelling the airbase, causing extensive damage and are likely to hit your helicopter at any time, so scramble immediately. You are fitted with Hellfire missiles which are not the ideal weapons against such a large maritime target so do the best you can.
+:EOF
+

@@ -1,0 +1,17 @@
+:Title
+Allied Pilot Rescue
+:Description
+Helicopters: 2
+:Para
+Targets: Rescue at X and Y
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 11:00
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+Several allied aircraft have been shot down by guerrillas. The positions of the brave pilots have been pinpointed. Comrade, you must evacuate the aircrew before they are captured and tortured by our barbaric enemy. Carefully check each area before landing as there is a high risk of being ambushed.
+:EOF

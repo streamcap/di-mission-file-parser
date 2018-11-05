@@ -1,0 +1,17 @@
+:Title
+Special Forces Battlefield Support
+:Description
+Helicopters: 3
+:Para
+Targets: Mujaheddin
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 07:30
+:Para
+Flight time: 11 mins
+:Para
+Weather: Overcast
+:Para
+The breakout from Barikot will be preceded by an artillery and aerial bombardment of the guerrilla defensive positions surrounding the town. Comrade, you will show no mercy to these miserable terrorists.
+:EOF

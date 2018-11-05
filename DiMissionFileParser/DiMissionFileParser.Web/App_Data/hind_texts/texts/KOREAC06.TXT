@@ -1,0 +1,17 @@
+:Title
+Destroy the Enemy's Communications Centres
+:Description
+Helicopters: 4
+:Para
+Targets: Comms at X & Y, deploy troops at Y
+:Para
+Weapons: UPK23,S8 9M114
+:Para
+Take-off time: 07:40
+:Para
+Flight time: 14 mins
+:Para
+Weather: Clear
+:Para
+We will pre-empt the enemy's response to our invasion by destroying several key communications centres. Comrades, you are required to attack the installations and then deploy your special forces to complete the destruction.
+:EOF

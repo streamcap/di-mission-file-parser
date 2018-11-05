@@ -1,0 +1,23 @@
+:Title
+Supply Convoy Escort
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft, Helicopters
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 18:10
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+The brave allies urgently need to move supplies of food and ammunition to the front-line. You are required to escort the convoy and guard against enemy air attack.  You may return to base after reaching waypoint x.
+:Outstanding
+Comrade, the destruction of the enemy helicopters and the saving of the vital supply convoy has enabled our troops to sustain their attack.  You will be rewarded with further front line duties.
+:Success
+Comrade, the supply convoy has reached its destination intact.  Your contribution on this mission has been noticed.
+:Failure
+Comrade, your failure to protect the vital convoy has had a devastating effect on allied morale.  Without the necessary supply of food and ammunition, our brave front-line troops will suffer greatly.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Armoured Column Battlefield Support
+:Description
+Helicopters: 2
+:Para
+Targets: Mujaheddin, Rescue troops at X
+:Para
+Weapons: OFAB250, 9M114
+:Para
+Take-off time: 18:05
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+A powerful allied armoured column has been ambushed by the ruthless Mujaheddin with heavy casualties reported. Comrade, you must scramble your Hind immediately and go to their assistance.
+:Outstanding
+Well done comrade. Your quick response and intelligent tactics has turned a potential disaster into a major allied victory.
+:Success
+Comrade, your prompt response and heroic actions have saved the armoured column from major losses and forced the enemy to retreat.
+:Failure
+Comrade, the armoured column suffered major casualties before it was able to retreat. If you had provided the necessary battlefield support this disaster could have been avoided.
+:EOF

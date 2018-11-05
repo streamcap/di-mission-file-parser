@@ -1,0 +1,17 @@
+:Title
+Battlefield Support
+:Description
+Helicopters: 2
+:Para
+Targets: Troops, armour at X and Y
+:Para
+Weapons: S5,S8, 9M114
+:Para
+Take-off time: 16:30
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+A vicious enemy counter-attack is forcing our courageous troops to make a tactical withdrawal. Air support is urgently required. Concentrate your attack on the tanks and APC's while our brave troops attack their miserable infantry.
+:EOF

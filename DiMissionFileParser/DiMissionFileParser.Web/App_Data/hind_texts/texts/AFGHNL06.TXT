@@ -1,0 +1,7 @@
+:Situation
+Comrade, our mighty offensive is engaged in heavy fighting against well-armed fanatical terrorists. Air support is urgently required. Our heroic generals have demanded an air offensive against the evil guerrilla camps and ammunition dumps in Pakistan and their supply routes must be severed.
+:Stalemate
+Our brave forces continue to suffer heavy casualties. Comrade, you must execute your attacks more thoroughly before our mighty offensive can proceed.
+:Failure
+Comrade, your failure to provide adequate air support has forced the brave allies to make a tactical retreat. This campaign is doomed unless the Hind squadrons improve their effectiveness.  You cannot risk further disappointment from your superiors.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Find and Destroy MLRS Launchers
+:Description
+Helicopters: 2
+:Para
+Targets: MLRS launchers
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 19:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+The cowardly enemy are using Multiple Launched Rocket Systems (MLRS) to attack our defences. Owing to the mobility of MLRS, only their approximate locations are known. Comrades, you must search the area and destroy these lethal weapons.
+:EOF

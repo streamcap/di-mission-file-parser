@@ -1,10 +1,11 @@
 ﻿using System.Collections.Generic;
+using DiMissionfileParser.Parser.Functions;
 
 namespace DiMissionfileParser.Parser.Models
 {
     public class MissionTextWithResult : MissionTextTitled
     {
-        public MissionTextWithResult(string fileName, Dictionary<string, IList<string>> labels, IList<string> lines)
+        public MissionTextWithResult(string fileName, Dictionary<string, MissionContents> labels, IList<string> lines)
             : base(fileName, labels, lines)
         {
             Outstanding = AggregateLabelText(labels["Outstanding"]);

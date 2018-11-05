@@ -1,4 +1,6 @@
-﻿using System.Linq;
+﻿using System;
+using System.IO;
+using System.Linq;
 using DiMissionfileParser.Parser.Functions;
 using DiMissionfileParser.Parser.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -7,25 +9,26 @@ namespace DiMissionFileParser.Web.Controllers
 {
     public class MissionTextController : Controller
     {
-        private readonly MissionTextDataContext context;
+        private readonly MissionTextDataContext _context;
 
         public MissionTextController()
         {
-            var path = @"C:\temp\apache_texts\texts";
-            context = new MissionTextDataContext(path);
+            var dataDir = AppDomain.CurrentDomain.GetData("DataDirectory").ToString();
+            var path = Path.Combine(dataDir, "apache_texts\\texts");
+            _context = new MissionTextDataContext(path);
         }
 
 
         // GET: MissionText
         public ActionResult Index()
         {
-            return View(context.MissionTexts);
+            return View(_context.MissionTexts);
         }
 
         // GET: MissionText/Details/5
         public ActionResult Details(string id)
         {
-            var file = context.MissionTexts.Single(s => s.FileName == id);
+            var file = _context.MissionTexts.Single(s => s.FileName == id);
             return GetDetailsView(file);
         }
 

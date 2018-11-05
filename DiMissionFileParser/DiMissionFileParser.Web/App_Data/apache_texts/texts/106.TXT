@@ -1,0 +1,24 @@
+:Title
+Early Warning Radar Strike
+:Description
+Helicopters: 4
+:Para
+Targets: EWR Radomes and buildings
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 04:35
+:Para
+Flight time: 18 mins
+:Para
+Weather: Thick fog
+:Para
+The allies are planning a series of air raids deep into enemy territory. Prior to the attack several enemy EWR sites need to be destroyed. You have been ordered to execute a night operation against two of these sites. In order to disable the EWR sites for as long as possible you should destroy all adjacent buildings as well as the main radome. 
+:Outstanding
+Both sites were completely destroyed and are expected to be out of operation for the duration of the war. An excellent result!
+:Success
+Well done. Both sites were largely destroyed and should be out of operation for some time.
+:Failure
+Failure to destroy both sites has led to the cancellation of the raids. Another Apache squadron has been tasked to repeat the attack on the EWR sites in the hope that they are more competent than your crew.
+:EOF
+

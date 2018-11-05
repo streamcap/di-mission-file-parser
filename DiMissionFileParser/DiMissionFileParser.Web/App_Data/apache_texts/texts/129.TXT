@@ -1,0 +1,23 @@
+:Title
+Attack Enemy Supply Convoy In Bad Weather
+:Description
+Helicopters: 4
+:Para
+Targets: Supply trucks, Air defense
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 05:40
+:Para
+Flight time: 18 mins
+:Para
+Weather: Thick fog
+:Para
+An armored supply convoy has been sighted traveling at night on the Nicosia to Famagusta road near to where the Perieos and Yialias rivers meet. The enemy is taking advantage of the foggy weather to move supplies to the east of the island. You must find and intercept the convoy using your radar.
+:Outstanding
+Despite the difficult flying conditions, all of the supply trucks were destroyed. Your success has left the enemy short of vital supplies. 
+:Success
+Despite the difficult flying conditions, most of the supply trucks were destroyed. Those that escaped were insufficient to alleviate the enemy supply shortages.
+:Failure
+Your  failure to destroy the convoy was disappointing, considering the Apache's all- weather capability. The enemy have been able to alleviate supply shortages.
+:EOF

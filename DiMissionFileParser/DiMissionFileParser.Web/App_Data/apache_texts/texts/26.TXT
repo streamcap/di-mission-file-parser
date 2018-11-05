@@ -1,0 +1,17 @@
+:Title
+Multiple Bridge Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Air defenses, Laser designate bridges
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 22:30
+:Para
+Flight time: 25 minns
+:Para
+Weather: Clear
+:Para
+The enemy supply routes must be further disrupted by knocking out two key bridges. You and your wingman have been tasked with destroying the air defenses at each bridge and then laser designating the bridges at twenty-two forty and twenty-two forty-five hours for strikes by F16's.
+:EOF

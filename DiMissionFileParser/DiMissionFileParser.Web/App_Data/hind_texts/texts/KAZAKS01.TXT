@@ -1,0 +1,23 @@
+:Title
+Headquarters Attack
+:Description
+Helicopters: 3
+:Para
+Targets: Munitions store, enemy base
+:Para
+Weapons: FAB500, R60, 9M114
+:Para
+Take-off time: 15:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Clear
+:Para
+Intelligence sources have located several camouflaged tents and a store containing the brutal rebel headquarters. Comrade, you are required to bomb the store and then destroy the tents and any other targets. Other Hinds will tackle air defences in the area.
+:Outstanding
+Comrade, your destruction of the barbaric rebel headquarters has thrown their command structure into disarray. Our heroic forces are exploiting this to the full. You demonstrated extraordinary bravery on this mission. 
+:Success
+Comrade, your destruction of the rebel headquarters has disrupted their command structure. Our heroic forces are exploiting this to the full.
+:Failure
+Your failure to destroy this key target has allowed the hated rebels to escape. They have moved their headquarters to a new secret location. Comrade, you are in disgrace.
+:EOF

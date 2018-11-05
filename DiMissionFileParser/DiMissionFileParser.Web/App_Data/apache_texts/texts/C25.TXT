@@ -1,0 +1,5 @@
+:Situation
+The attack on the nuclear bunker has gone perfectly, with the entrance sealed. No radiation leaks have been reported. Their command structure must now be disrupted by attacking communications and command centres. These are high value targets which you can expect to be very heavily defended. Part of your squad will be tasked with air defence suppression. Stopping reinforcements and supplies reaching the front line is still a major priority. Once the primary targets have been destroyed you are free to attack any targets of opportunity. The success of disrupting the enemy's supply routes has made them look for alternatives. It is suspected that the rivers are now being used for this purpose.
+:Failure
+The failure of the Apache attacks has taken the pressure off the North Korean forces. They have repaired the EWR sites, re-configured the ECM network and unblocked the entrance to the nuclear bunker. They are again in a position to use nuclear weapons.
+:EOF

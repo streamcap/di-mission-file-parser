@@ -1,0 +1,17 @@
+:Title
+Ferry Terminal Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Air defences, lay mines at X
+:Para
+Weapons: KMGU2, S8, 9M114
+:Para
+Take-off time: 19:20
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+Considerable enemy activity is evident at a civilian ferry terminal. We suspect that the enemy will launch its counter-attack from this location. Comrade, you are required to suppress any air defences while the rest of your formation attack the jetty.  You must then dispense anti-personnel mines to make the terminal unusable.
+:EOF

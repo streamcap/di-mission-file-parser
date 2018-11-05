@@ -1,0 +1,23 @@
+:Title
+Special Forces Escort
+:Description
+Helicopters: 6
+:Para
+Targets: Escort Hip helicopters
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 21:00
+:Para
+Flight time: 16 mins
+:Para
+Weather: Overcast
+:Para
+Our brave allies plan to set up a defensive position at a strategic cross-roads. Comrade, you are required to escort Hip helicopters containing courageous special forces. Vicious guerrillas are believed to be in the area.  You must deal with them accordingly.
+:Outstanding
+Congratulations comrade.  You have successfully deployed our special forces and suppressed activities of the ruthless enemy with minimum allied casualties. 
+:Success
+You have successfully deployed our special forces and adequately suppressed the cowardly enemy. Well done.
+:Failure
+Your failure to provide an adequate escort has allowed the vindictive Mujaheddin to strengthen their forces and launch an increasing number of attacks. Comrade, your superiors are appalled at your incompetence. You are in disgrace.
+:EOF

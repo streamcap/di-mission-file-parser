@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Chain Gun - Air Combat
+:Description
+Helicopters: 1
+:Para
+Targets: Practice drone aircraft
+:Para
+Weapons: Chain gun
+:Para
+Take-off time: 15:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Your Apache is armed with 1200 30mm rounds of ammunition. The gun fires at 625 rounds per minute, giving you approximately 2 minutes use. This mission is provided for the practice of air-to air combat. Be sure to check out the helmet-mounted sight which can be used to lock your view onto the target during combat maneuvers. Suitable air targets will be found in the vicinity of waypoint X.
+:EOF

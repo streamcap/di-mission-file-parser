@@ -1,0 +1,23 @@
+:Title
+Search And Rescue Escort
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 20:30
+:Para
+Flight time: 12 mins
+:Para
+Weather: Overcast
+:Para
+The allies have located six pilots shot down over enemy territory. You are required to escort a Black Hawk helicopter to pick them up under the cover of darkness.  Although  none of the areas have any known air defenses, the enemy have been using  beacons from captured airmen to set up ambushes.
+:Outstanding
+All of the stranded pilots were rescued with the enemy ambushes being located and destroyed. Relatives of the survivors have praised the Apache crews,
+:Success
+Most of the stranded pilots were found with the enemy ambushes being dealt with effectively.
+:Failure
+The loss of the Black Hawk helicopter and the capture of all of those on board means that your incompetence has resulted in the loss of more allied pilots.
+:EOF

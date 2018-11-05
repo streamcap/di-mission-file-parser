@@ -1,0 +1,17 @@
+:Title
+Supply Convoy Find and Destroy
+:Description
+Helicopters: 2
+:Para
+Targets: Supply convoy trucks
+:Para
+Weapons: 8 Hellfire, 36 rockets
+:Para
+Take-off time: 22:30
+:Para
+Flight time: 19 mins
+:Para
+Weather: Clear
+:Para
+A large supply convoy has been located heading towards the forward battle area. You and your wingman must concentrate on destroying the convoy while two other Apaches attack the air defenses.
+:EOF

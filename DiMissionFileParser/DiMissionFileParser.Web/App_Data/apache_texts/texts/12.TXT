@@ -1,0 +1,17 @@
+:Title
+Silence Shore-Based Guns
+:Description
+Helicopters: 2
+:Para
+Targets: Gun batteries
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:40
+:Para
+Flight time: 18 mins
+:Para
+Weather: Clear
+:Para
+The task force has come under fire from shore-based guns near Al 'Adan. They are heavily fortified concrete structures that will need several hits with Hellfire missiles to put them out of action. The sites are difficult to locate as they are well camouflaged and heavily defended with AAA and SAM's.
+:EOF

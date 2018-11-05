@@ -1,0 +1,17 @@
+:Title
+Night Attack on Guerrilla Positions
+:Description
+Helicopters: 2
+:Para
+Targets: Mujaheddin
+:Para
+Weapons: FAB250, 9M114
+:Para
+Take-off time: 21:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Overcast
+:Para
+The terrorists are preparing new defensive positions under the cover of darkness. Comrade, in preparation for the deployment of our special forces at dawn, you will execute a night bombing raid.
+:EOF

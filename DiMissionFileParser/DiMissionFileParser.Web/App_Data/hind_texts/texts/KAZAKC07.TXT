@@ -1,0 +1,17 @@
+:Title
+Secure Forward Base
+:Description
+Helicopters: 3
+:Para
+Targets: Aircraft, air defences, deploy troops at Y
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 21:00
+:Para
+Flight time: 15 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, our brave special forces are to be deployed behind the front line in order to secure the airfield. You are tasked with strafing any aircraft at the airport to create maximum confusion.  You must then deploy your courageous troops and provide air support. Do not destroy any of the airfield facilities.
+:EOF

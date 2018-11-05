@@ -1,0 +1,23 @@
+:Title
+Special Forces Deployment
+:Description
+Helicopters: 3
+:Para
+Targets: Mujaheddin, Deploy troops at X
+:Para
+Weapons: S5,S8,9M114
+:Para
+Take-off time: 06:30
+:Para
+Flight time: 12 mins
+:Para
+Weather: Overcast
+:Para
+The brave allies wish to set up an outpost at a strategic road junction in order to restrict guerrilla movement in the area. Comrade, you are required to check the area, dispose of any murderous guerrillas and then deploy your courageous troops.
+:Outstanding
+Well done comrade!  You have successfully deployed your troops and prevented the new outpost from being attacked by eliminating the warmongering guerrillas.
+:Success
+Comrade, the troop deployment went well but not all of the guerrillas were eliminated. Unfortunately, our brave forces are now suffering from sniper fire.
+:Failure
+Your failure to deploy the troops and deal effectively with the guerrillas has allowed the enemy to take control of this strategic position. Your superiors are looking for a dramatic improvement in your performance.
+:EOF

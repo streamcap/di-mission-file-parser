@@ -1,0 +1,5 @@
+:Situation
+The North Koreans are moving reinforcements and supplies towards the front-line to restart the stalled offensive. Most of these are being moved at night and remain camouflaged during the day. The Apache's mobility and night vision systems make it ideal for hunting and destroying these targets. Success will weaken the enemy position considerably and give the allies the initiative.
+:Failure
+The ineffectiveness of the Apache attacks on the enemy's supply routes has enabled North Koreans to reinforce and re-supply their ground forces. They have now re-launched their stalled ground offensive and are pushing the allied troops back slowly. The Apache helicopters are required urgently for battlefield support to try and stop any further North Korean advances. High command is expecting you to perform much better on future operations.
+:EOF

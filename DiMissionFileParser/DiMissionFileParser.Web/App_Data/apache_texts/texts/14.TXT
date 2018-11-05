@@ -1,0 +1,18 @@
+:Title
+Supply Dump Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Munitions store and trucks
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 11:35
+:Para
+Flight time: 17 mins
+:Para
+Weather: Clear
+:Para
+A government supply and munitions store has been located amongst the Al 'Adan harbor buildings. It is being used to re-supply tanks that are shelling the assembly area. You must fly into this heavily defended area, destroy the main ammunition store and any supply trucks. Supporting Apaches will give covering fire during the attack.
+:EOF
+

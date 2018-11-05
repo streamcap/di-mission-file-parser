@@ -1,0 +1,17 @@
+:Title
+Hip Escort with Air Defence Suppression
+:Description
+Helicopters: 4
+:Para
+Targets: Deploy troops at X
+:Para
+Weapons: UPK23, rockets, 9M114
+:Para
+Take-off time: 13:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Clear
+:Para
+Special forces are to be transported to Barikot using Hind and Hip helicopters. You will carry eight brave soldiers while escorting the Hips. Comrade, while the Hip helicopters are unloading their courageous troops you will provide defence suppression, deploy your squad and then escort the Hips back to base.
+:EOF

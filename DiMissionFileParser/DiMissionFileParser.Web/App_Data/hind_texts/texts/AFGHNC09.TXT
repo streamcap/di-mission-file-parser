@@ -1,0 +1,17 @@
+:Title
+Guerrilla Attack
+:Description
+Helicopters: 3
+:Para
+Targets: Mujaheddin at X, Mortars at Y
+:Para
+Weapons: FAE500, rockets, 9M114
+:Para
+Take-off time: 05:50
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+Warmongering terrorists have been discovered approximately six miles from one of the allied outposts. Comrade, you are instructed to eliminate this threat by using your fuel-air bombs.  Dispose of any other miserable guerrillas that you encounter in the area.
+:EOF

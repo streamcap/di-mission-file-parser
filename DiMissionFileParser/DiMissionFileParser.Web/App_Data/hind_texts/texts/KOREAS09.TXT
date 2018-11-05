@@ -1,0 +1,23 @@
+:Title
+Anti-Helicopter Sweep
+:Description
+Helicopters: 3
+:Para
+Targets: Helicopters
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 7:30
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+The ruthless enemy is providing extensive battlefield support for their miserable troops. Comrade, you must fly along the front line and destroy their Apache and Blackhawk helicopters. This is a difficult mission against fanatical enemy pilots. Your Hind is armed with the formidable R-60 air-to-air missiles and the devastating 23mm dual cannon pods.
+:Outstanding
+We have gained air superiority against our fanatical enemy.  This is a major achievement that has amazed the western imperialist nations.  Comrade, the miserable enemy's lack of air support has allowed our glorious troops to make new advances on the battlefield.
+:Success
+Comrade, your destruction of several enemy helicopters over the battle area has helped our glorious troops to make significant advances against a vindictive and spiteful enemy.
+:Failure
+Your failure to destroy sufficient enemy helicopters has given the miserable enemy air superiority over the battlefield. Comrade, unless your performance improves you will be joining the ground troops at the front-line!
+:EOF

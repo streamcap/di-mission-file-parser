@@ -1,0 +1,17 @@
+:Title
+Battlefield Support and Troop Evacuation
+:Description
+Helicopters: 2
+:Para
+Targets: Troops, armour at X, evacuate troops at Y
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 12:30
+:Para
+Flight time: 11 mins
+:Para
+Weather:  Clear
+:Para
+Comrade, you are required to respond to enemy intervention during the withdrawal and then evacuate two casualties from a field hospital on your return journey.
+:EOF

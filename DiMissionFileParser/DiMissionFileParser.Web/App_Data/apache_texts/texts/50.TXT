@@ -1,0 +1,17 @@
+:Title
+Locate and Destroy Special Forces
+:Description
+Helicopters: 2
+:Para
+Targets: APC's
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 08:40
+:Para
+Flight time: 15 mins
+:Para
+Weather: Clear
+:Para
+Special Turkish forces are operating behind Greek lines in light armored reconnaissance vehicles. They were involved in a conflict with Greek troops about 15 minutes ago after sabotaging key Greek-Cypriot installations. This is there last known location and it is suspected they have now gone to ground. Find and neutralize them as quickly as possible.
+:EOF

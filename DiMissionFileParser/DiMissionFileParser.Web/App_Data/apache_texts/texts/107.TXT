@@ -1,0 +1,23 @@
+:Title
+Supply Dump Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Supply dump, Air defenses
+:Para
+Weapons: 8 Hellfire, 38 Rockets
+:Para
+Take-off time: 18:55
+:Para
+Flight time: 20 mins
+:Para
+Weather: Overcast
+:Para
+An enemy forward supply dump has been located a few miles behind the front line near Munsan. Supplies of fuel, oil, armaments, explosives and other equipment are well camouflaged and dispersed over a wide area. Each Apache has been designated an area for its attack and should destroy as much of the enemy's supplies as possible. The site is well defended with numerous SAM and AAA sites .
+:Outstanding
+This was a well executed attack against strong defenses with all of the enemy supplies destroyed. High Command is delighted with your performance.
+:Success
+This was a successful attack with most of the enemy supplies destroyed. Enemy morale is weakening.
+:Failure
+Your failure has resulted in the enemy sustaining pressure on allied troops in this sector. Allied morale is weakening.
+:EOF

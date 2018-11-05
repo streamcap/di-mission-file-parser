@@ -1,0 +1,17 @@
+:Title
+Supply Dump Diversion Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Supply dump, Air defenses
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 15:30
+:Para
+Flight time: 21 mins
+:Para
+Weather: Clear
+:Para
+A government supply base has been located in an area adjacent to where the oil workers are located. You will attack this as a diversion, just before the evacuation is attempted. The timing of the attack is critical, so be on time!
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Weapons Training - R-60 Air-to-Air Missiles 
+:Description
+Helicopters: 1
+:Para
+Targets: Aircraft
+:Para
+Weapons: R-60
+:Para
+Take-off time: 11:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+Your awesome Hind is armed with four R-60 Aphid infra-red air-to-air missiles. Two are mounted on each outer pylon. Comrade, practise your air combat skills with or without the silicon Weapon Systems Operator. Suitable air targets can be found between X and Y.
+:EOF

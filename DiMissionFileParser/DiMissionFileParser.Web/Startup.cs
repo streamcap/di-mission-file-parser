@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using System;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -40,6 +41,15 @@ namespace DiMissionFileParser.Web
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+
+            // Use this code if you want the App_Data folder to be in wwwroot
+            //var baseDir = env.WebRootPath;
+
+            // Use this if you want App_Data off your project root folder
+            var baseDir = env.ContentRootPath;
+
+            AppDomain.CurrentDomain.SetData("DataDirectory", System.IO.Path.Combine(baseDir, "App_Data"));
+
 
             app.UseStaticFiles();
             app.UseCookiePolicy();

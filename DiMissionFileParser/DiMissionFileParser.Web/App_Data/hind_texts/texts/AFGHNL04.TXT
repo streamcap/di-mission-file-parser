@@ -1,0 +1,7 @@
+:Situation
+Comrade, our mighty task force has been ambushed en route to Chagha Sarai. Urgent requests for airborne firepower are coming from our courageous troops. Reports have also been received of terrorist attacks at several strategic outposts. 
+:Stalemate
+Comrade, air support provided by the Hind crews has been inadequate. Further missions are necessary before the allied offensive can proceed.
+:Failure
+Your grossly inadequate air support has enabled the warmongering Mujaheddin terrorists to over-run several strategic outposts.  The allied offensive has been forced to retreat to Jalalabad. 
+:EOF

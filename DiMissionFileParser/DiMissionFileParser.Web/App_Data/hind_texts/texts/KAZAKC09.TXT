@@ -1,0 +1,17 @@
+:Title
+Stop an Artillery Bombardment
+:Description
+Helicopters: 4
+:Para
+Targets: Artillery
+:Para
+Weapons: S8, R60, 9M114
+:Para
+Take-off time: 15:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, the air base is under attack from cowardly rebel artillery. Our intelligence forces have located the approximate artillery positions. You are required to destroy the artillery while your wingmen attack the air defences.
+:EOF

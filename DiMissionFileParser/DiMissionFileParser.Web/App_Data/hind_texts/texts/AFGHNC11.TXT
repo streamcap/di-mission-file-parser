@@ -1,0 +1,17 @@
+:Title
+Find and Destroy the Enemy Artillery Positions
+:Description
+Helicopters:3
+:Para
+Targets:Artillary and mortar positions
+:Para
+Weapons:Cannon, Rockets, 9M114
+:Para
+Take-off time:12:30
+:Para
+Flight time:13 mins
+:Para
+Weather:Clear
+:Para
+Comrade, reconnaissance flights have identified ruthless terrorist groups setting up defensive artillery and mortar positions. You are ordered to obliterate the sites and any other terrorist equipment that you discover.
+:EOF

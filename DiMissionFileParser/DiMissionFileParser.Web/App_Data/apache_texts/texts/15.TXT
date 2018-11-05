@@ -1,0 +1,17 @@
+:Title
+Communications Center Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Comms tower and buildings
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 11:35
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+The attack on the airfield is being coordinated by a nearby communications center. All buildings and the communications mast must be destroyed. The site is well defended with AAA and SAM sites.
+:EOF

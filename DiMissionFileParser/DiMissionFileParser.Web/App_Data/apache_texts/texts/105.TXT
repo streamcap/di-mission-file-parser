@@ -1,0 +1,23 @@
+:Title
+Supply Barge Strike
+:Description
+Helicopters: 2
+:Para
+Targets: Military supply barges
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 13:05
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+Following allied disruption of the enemy's road and rail networks, barges are being used to move supplies and equipment. A convoy of six barges has been reported on the Imjin river moving towards the front line. Many civilian barges are also in the area  so you must confirm that targets are carrying military equipment before you attack them.
+:Outstanding
+This was a well executed attack with all of the supply barges being sunk. The continued restriction of enemy supplies is beginning to turn the war in the allies favor.
+:Success
+This was a successful mission with most of the supply barges sunk. Regrettably, the remaining supplies reached the front line, helping to alleviate shortages.
+:Failure
+Due to your incompetence against an easy target the enemy forces have a much improved supply situation. Increased attacks on the allies have resulted in heavy casualties.
+:EOF

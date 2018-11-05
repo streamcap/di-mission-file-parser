@@ -1,0 +1,17 @@
+:Title
+Special Forces Deployment
+:Description
+Helicopters:2
+:Para
+Targets:Escort Hips to X, Battlefield Support at Y
+:Para
+Weapons:Rockets, R60 Missiles, 9M114
+:Para
+Take-off time:18:00
+:Para
+Flight time:11 mins
+:Para
+Weather:Light Fog
+:Para
+Comrade, you are required to escort Hip helicopters to their landing zone and provide air cover while our brave special forces disembark. You will then contribute to a massive air and artillery bombardment of the enemy positions.
+:EOF

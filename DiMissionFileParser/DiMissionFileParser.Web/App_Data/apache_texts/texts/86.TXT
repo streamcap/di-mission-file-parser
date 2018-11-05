@@ -1,0 +1,25 @@
+:Title
+Free the Hostages
+:Description
+Helicopters: 4
+:Para
+Targets: Aircraft, Air defenses, Army camp
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 06:10
+:Para
+Flight time: 29 mins
+:Para
+Weather: Clear
+:Para
+Enemy forces are holding a group of foreign journalists hostage and are threatening to use them as a human shield. The allies have decided to launch a rescue attempt in which you play a key part. Firstly, you must escort the Black Hawk rescue helicopters to the target area. Secondly, provide a diversion by attacking an army camp on the edge of the settlement. Thirdly, give covering fire and knock out any remaining air defenses while the rescue operation is performed and finally, escort the helicopters back
+ to the task force.
+:Outstanding
+The hostages have been successfully rescued without any major casualties. Well done.
+:Success
+The hostages have been successfully rescued. However, minor injuries occurred due to the Apache force not totally suppressing ground fire.
+:Failure
+The lack of Apache support has resulted in many casualties. Allied troops were forced to withdraw and abandon the rescue attempt.
+:EOF
+

@@ -1,0 +1,7 @@
+:Situation
+The aggressive rebels have set up strong defensive positions in order to protect their only supply route. Comrade, you and your wingmen are required to support our brave troops as they attempt to surround the enemy.
+:Stalemate
+Your inadequate performance means that more attacks are needed against the fanatical rebel positions.  Your superiors are recommending further training.
+:Failure
+Your failure to provide adequate air support has allowed the vicious enemy to launch a massive counter-attack. The allies have made a tactical retreat to the air base. Your superiors are blaming the Hind squadrons for the disappointing progress in this campaign.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+SCUD Busting
+:Description
+Helicopters: 2
+:Para
+Targets: SCUD launchers, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 11:05
+:Para
+Flight time: 20 mins
+:Para
+Weather: Clear
+:Para
+Enemy SCUD launchers in the Panmunjom region just north of the border are terrorizing the civilian population of Seoul by launching regular missile attacks. After each attack the mobile vehicles are relocated so their exact location is not known. Locate and destroy as many of the launchers as possible. 
+:Outstanding
+The destruction of all of the SCUD launchers means Seoul in no longer under attack. Congratulations on a thorough mission.
+:Success
+Most of the SCUD launchers have been destroyed. Occasional SCUD attacks are still occurring, causing minor civilian damage.
+:Failure
+Many civilian casualties are occurring from the continued SCUD bombardment of Seoul. Your performance was so poor that allied commanders have dispatched special forces into the area to complete the job.
+:EOF

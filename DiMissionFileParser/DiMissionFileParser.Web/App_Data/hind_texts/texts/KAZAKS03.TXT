@@ -1,0 +1,23 @@
+:Title
+Rebel Clearance
+:Description
+Helicopters: 3
+:Para
+Targets: Artillery, APC's, Trucks, SAM's, AAA
+:Para
+Weapons: Rockets, R60, 9M114
+:Para
+Take-off time: 06:00
+:Para
+Flight time: 8 mins
+:Para
+Weather: Overcast
+:Para
+Our courageous forces have launched an attack to clear the vicious rebels from an area of the city. Comrade, support is required from our Hind helicopters if casualties are to be minimised. The terrain favours the ruthless defenders so lookout for ambushes and respond accordingly.
+:Outstanding
+Comrade, your brilliant air support helped make this a very successful operation with light casualties. Well done.
+:Success
+Comrade, your effective air support has minimised casualties amongst our brave and courageous forces.
+:Failure
+Comrade, our courageous ground forces have retreated after suffering very heavy casualties. Your superiors have blamed this outcome on the pathetic air support provided by the Hind pilots.
+:EOF

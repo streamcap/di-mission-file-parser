@@ -1,0 +1,17 @@
+:Title
+Headquarters Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Headquarters, SAM's, AAA
+:Para
+Weapons: FAE500, R60, 9M114
+:Para
+Take-off time: 20:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Overcast
+:Para
+Our cunning intelligence sources have identified  an enemy field headquarters. Comrade, you are instructed to use fuel air bombs to destroy the site and then attack defensive positions in the surrounding area.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Laying Mines for Troop Defences
+:Description
+Helicopters: 3
+:Para
+Targets: Lay mines at X and Y
+:Para
+Weapons: KMGU2, R60, 9M114
+:Para
+Take-off time: 13:00
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+A section of the allied front-line has a very exposed flank. The meticulous allies are to remove this weakness by laying a mine-field. Comrade, the operation will be executed by a formation of Hinds. With the close proximity of our courageous forces be sure that you are on target.
+:Outstanding
+Comrade, the precision laying of the minefield has resulted in many rebel casualties when they attempted to attack our courageous forces.  You performed your task well.
+:Success
+Comrade, the successful laying of the minefield has foiled a ruthless enemy counter-attack.  The cowards have been forced to retreat.
+:Failure
+Your failure to protect the vulnerable flank has allowed the spiteful enemy to inflict major casualties on our brave forces. Comrade, you have failed your beloved motherland.
+:EOF

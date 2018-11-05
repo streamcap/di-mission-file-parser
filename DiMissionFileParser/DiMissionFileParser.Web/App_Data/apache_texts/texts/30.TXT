@@ -1,0 +1,17 @@
+:Title
+Destroy Mobile ECM Vehicles
+:Description
+Helicopters: 4
+:Para
+Targets: MT-LBus ECM vehicles, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:25
+:Para
+Flight time: 19 mins
+:Para
+Weather: Thick fog
+:Para
+Before the nuclear bunker can be attacked several MT-LBus mobile ECM vehicles must be located and destroyed. Their approximate co-ordinates are known from allied RF detection equipment. The route avoids all the known major enemy air defenses, but expect the ECM vehicles to be defended.
+:EOF

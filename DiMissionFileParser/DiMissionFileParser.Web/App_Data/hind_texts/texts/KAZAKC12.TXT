@@ -1,0 +1,17 @@
+:Title
+Supply Convoy Attack
+:Description
+Helicopters: 3
+:Para
+Targets: Tanks, air defences, Trucks
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 05:00
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+A rebel supply convoy is transferring supplies from Akmola to the front-line under the cover of darkness. Comrade, locate and destroy the convoy before the supplies reach their destination.
+:EOF

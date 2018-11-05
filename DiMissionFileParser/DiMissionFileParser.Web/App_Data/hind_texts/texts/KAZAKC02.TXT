@@ -1,0 +1,17 @@
+:Title
+Pre-empt an Enemy Ambush
+:Description
+Helicopters: 2
+:Para
+Targets: Lay mines at X, deploy troops at Y, attack armour at Z 
+:Para
+Weapons: KMGU-2, S8, 9M114
+:Para
+Take-off time: 08:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+The ruthless rebel forces are approaching an ideal ambush point along our vital supply route. Comrade, you will assist in our plan to trap the rebels by dispensing mines and deploying brave special forces. Stay out of sight until the battle begins, then cut off their retreat.
+:EOF

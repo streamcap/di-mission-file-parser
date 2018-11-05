@@ -1,0 +1,23 @@
+:Title
+Destroy the Well Dug-in Enemy Tanks
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, Transmit tank positions
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 13:25
+:Para
+Flight time: 15 mins
+:Para
+Weather: Clear
+:Para
+Enemy tanks are restricting the movement of allied troops by firing on any APC's that come into range. You are tasked with locating and destroying these tanks as quickly as possible so that allied operations may continue. During your attack you are required to assist the allied artillery by transmitting reconnaissance data to pinpoint enemy forces.
+:Outstanding
+Destruction of the enemy tanks has enable the allied APC's and infantry to move forward and secure their objectives. Your reconnaissance has helped High Command devise a plan to secure the fortifications. They are very pleased with your performance.
+:Success
+The destruction of enemy tanks has enable the allied APC's and infantry to secure their objectives. However, your failure to provide battlefield reconnaissance has hindered allied plans to secure the rest of the fortifications.
+:Failure
+Pinned down by enemy tank fire, the allies have suffered heavy casualties and have been unable to achieve their objectives. Allied command is highly critical of the lack of air support and is questioning your competence
+:EOF

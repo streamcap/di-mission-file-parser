@@ -1,0 +1,17 @@
+:Title
+Hind Conversion
+:Description
+Helicopters: 1
+:Para
+Targets: Vehicles at X
+:Para
+Weapons: 57mm rockets, R60, 9M114
+:Para
+Take-off time: 09:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+Comrade, use this training mission to familiarise yourself with the Hind's impressive handling characteristics, flight controls and navigation equipment. If you want to use any of the devastating weapons during the flight, this is only permitted on the practice range at waypoint X.
+:EOF

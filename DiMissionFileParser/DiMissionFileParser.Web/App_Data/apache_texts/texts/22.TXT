@@ -1,0 +1,17 @@
+:Title
+Bridge Demolition
+:Description
+Helicopters: 2
+:Para
+Targets: Air defenses, Laser designate bridge
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 18:20
+:Para
+Flight time: 19 mins
+:Para
+Weather: Clear
+:Para
+Enemy forces are approaching a river about 10 miles north of Seoul where a bridge has not been destroyed. Attack any enemy vehicles approaching the bridge and then laser designate the bridge at eighteen thirty hours for an attack by F18's. This is the last chance to form a defensive line to halt the enemy advance.
+:EOF

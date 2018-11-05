@@ -1,0 +1,17 @@
+:Title
+Relief of Barikot
+:Description
+Helicopters: 2
+:Para
+Targets: Mujaheddin at X, Mortars at Y
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 20:15
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+Our brave special forces from Barikot have reached the victorious armoured column. The advance is to be completed by entering the town. Isolated terrorist guerrillas may try to ambush the convoy. You are tasked with ensuring safe passage for the convoy through this final phase.
+:EOF

@@ -1,0 +1,7 @@
+:Situation
+The ruthless enemy has launched a major counter-attack by crossing the Han-Gang river on both of our flanks. If this attack succeeds then our courageous troops will be surrounded and will be forced to surrender. The cowardly enemy has established a bridgehead but it is very vulnerable and should be repelled with a co-ordinated land, sea and air attack.
+:Stalemate
+Our courageous aircrew have prevented the cowardly enemy from advancing further into our glorious motherland. Further sorties should repel the invasion completely.
+:Failure
+The barbaric enemy has succeeded in surrounding our brave forces. Regrettably we have been forced to surrender due to lack of supplies and ammunition. Blame for the failure of this campaign is directed at the incompetent Hind crews. Your career as a pilot is in question.
+:EOF

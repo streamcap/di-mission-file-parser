@@ -1,0 +1,17 @@
+:Title
+Hostage Rescue Support
+:Description
+Helicopters: 4
+:Para
+Targets: Air defenses, Covering fire
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 11:35
+:Para
+Flight time: 16 mins
+:Para
+Weather: Overcast
+:Para
+Your Apache squadron will escort the rescue helicopters to and from the holding area. You are to provide covering fire while marines secure the area. The troops will then be evacuated to the Dhekelia airbase. Any air defenses encountered in the area must be dealt with quickly and effectively if the operation is to succeed.
+:EOF

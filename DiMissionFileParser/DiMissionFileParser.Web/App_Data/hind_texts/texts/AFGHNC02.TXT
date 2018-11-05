@@ -1,0 +1,17 @@
+:Title
+Destroy the Enemy Artillery Positions
+:Description
+Helicopters:2
+:Para
+Targets:Artillery and Mortar positions
+:Para
+Weapons:FAB250, Rockets, 9M114
+:Para
+Take-off time:09:50
+:Para
+Flight time:5 mins
+:Para
+Weather:Overcast
+:Para
+The enemy's artillery and mortar barrage is resulting in casualties and considerable damage at allied defensive positions. Comrade, you are required to locate and destroy these weapons.  The cunning guerrillas are well equipped with portable SAM-7 infra-red missiles.
+:EOF

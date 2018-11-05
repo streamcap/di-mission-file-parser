@@ -1,0 +1,17 @@
+:Title
+Formation Flying / Escort
+:Description
+Helicopters: 2
+:Para
+Targets: None
+:Para
+Weapons: None
+:Para
+Take-off time: 09:45
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+Combat operations will require frequent escort missions and formation flying. Use this mission to practice your technique.  There will be no margin for error when you are at the front line. You are not cleared to fire any weapons on this flight.  You are not cleared to approach any target areas.
+:EOF

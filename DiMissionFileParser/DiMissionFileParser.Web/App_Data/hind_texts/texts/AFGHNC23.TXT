@@ -1,0 +1,17 @@
+:Title
+Barikot Breakout
+:Description
+Helicopters: 2
+:Para
+Targets: Mujaheddin
+:Para
+Weapons: UPK23, rockets, 9M114
+:Para
+Take-off time: 15:00
+:Para
+Flight time: 8 mins
+:Para
+Weather: Overcast
+:Para
+Our brave special forces from Barikot have come under attack as they advance towards our mighty armoured column. Your heroic support is vital if they are to reach their comrades.
+:EOF

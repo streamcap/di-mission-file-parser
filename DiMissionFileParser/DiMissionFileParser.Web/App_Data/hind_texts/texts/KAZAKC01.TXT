@@ -1,0 +1,17 @@
+:Title
+Supply Route Defence
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, SAM's, AAA, Trucks
+:Para
+Weapons: FAE500, R60, 9M114
+:Para
+Take-off time: 04:00
+:Para
+Flight time: 13 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, the vicious rebel forces are advancing towards the allied supply route in a convoy of APC's and trucks. You must locate and destroy them with fuel air bombs before they reach the highway and sever our supply route.
+:EOF

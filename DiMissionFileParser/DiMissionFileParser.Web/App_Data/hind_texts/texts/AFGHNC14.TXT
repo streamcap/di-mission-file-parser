@@ -1,0 +1,17 @@
+:Title
+Supply Column Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Truck convoy
+:Para
+Weapons: KMGU2, R60,9M114
+:Para
+Take-off time: 20:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+A terrorist supply column has been identified at the Pakistani border. Comrade, you must engage and destroy the convoy. You have full permission to cross the border if necessary.  Complete your mission by dispensing mines to disrupt the route. There is a considerable risk of being intercepted by Pakistani F16 aircraft or Cobra helicopters.
+:EOF

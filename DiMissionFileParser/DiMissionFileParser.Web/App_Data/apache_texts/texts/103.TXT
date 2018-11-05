@@ -1,0 +1,23 @@
+:Title
+Stop the Artillery Bombardment
+:Description
+Helicopters: 2
+:Para
+Targets: Artillery, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 13:35
+:Para
+Flight time: 15 mins
+:Para
+Weather: Overcast
+:Para
+The enemy has deployed special forces behind the allied front line in order to direct artillery fire. Shell trajectory radar has given the approximate location of the guns as eight miles from the front line. Locate and destroy as many of the guns as possible. They are believed to be well dug in and camouflaged with AAA and SAM air defenses. 
+:Outstanding
+The shelling of allied targets in this sector has stopped due to the complete destruction of all enemy artillery.  Your skill has prevented allied casualties and loss of equipment. Well done.
+:Success
+The shelling of allied targets in this sector has been reduced significantly. However, the allies remain under threat from the artillery.
+:Failure
+The enemy has maintained its artillery fire against the allied positions.  Your failure to silence the guns has lead to significant loss of equipment and heavy casualties.
+:EOF

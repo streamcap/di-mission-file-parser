@@ -1,0 +1,17 @@
+:Title
+Weapons Training - 57mm and 80mm Rockets
+:Description
+Helicopters: 1
+:Para
+Targets: Vehicles at X
+:Para
+Weapons: Rockets
+:Para
+Take-off time: 06:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Overcast
+:Para
+The potent 57mm unguided air-to-surface rockets are for use against lightly armoured targets. The 80mm rockets are for use against heavily-armoured targets such as tanks.  Comrade, your Hind is fitted with thirty two 57mm rockets in pods on the inner pylons and forty 80mm rockets in pods on the outer pylons. Use these weapons to attack the targets on the firing range at waypoint X.
+:EOF

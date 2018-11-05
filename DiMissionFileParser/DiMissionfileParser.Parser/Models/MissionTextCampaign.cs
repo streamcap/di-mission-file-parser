@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
+using DiMissionfileParser.Parser.Functions;
 
 namespace DiMissionfileParser.Parser.Models
 {
@@ -11,29 +11,20 @@ namespace DiMissionfileParser.Parser.Models
 
         public string Failure { get; set; }
 
-        public MissionTextCampaign(string fileName, Dictionary<string, IList<string>> labels, IList<string> lines)
+        public MissionTextCampaign(string fileName, Dictionary<string, MissionContents> labels, IList<string> lines)
             : base(fileName, labels, lines)
         {
+            Situations = new List<MissionTextSituation>();
             Description = AggregateLabelText(labels["Description"]);
             Successful = AggregateLabelText(labels["Successful"]);
             Failure = AggregateLabelText(labels["Failure"]);
         }
 
-        public IEnumerable<MissionTextSituation> Situations { get; set; }
+        public IList<MissionTextSituation> Situations { get; }
 
         public override string ToString()
         {
             return $"Campaign: {Description.Substring(0, 140)} ({FileName})";
-        }
-
-        public void InsertSituation(MissionTextSituation file)
-        {
-            if (Situations == null)
-            {
-                Situations = new List<MissionTextSituation>();
-            }
-
-            Situations = Situations.Union(new[] { file });
         }
     }
 }

@@ -1,0 +1,7 @@
+:Situation
+The Kazak government has appealed for supplies and ammunition to be dropped to their besieged troops and for the evacuation of casualties. Our government has agreed to open a supply corridor on condition that the Kazak forces assist in a combined attack on the rebels. The vicious enemy is known to have set up strong air defences in the area.
+:Stalemate
+Insufficient supplies have reached the Kazak forces for them to launch a combined attack. Comrade, this operation will not succeed unless you provide much better support for the Hip helicopters.
+:Failure
+Comrade, your failure to re-supply the Kazak troops has left them isolated and vulnerable. The rebels have reopened their supply corridor and are no longer isolated.
+:EOF

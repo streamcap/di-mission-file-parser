@@ -1,0 +1,17 @@
+:Title
+Allied Defence Battlefield Support
+:Description
+Helicopters: 3
+:Para
+Targets: Mujaheddin
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 20:30
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+Comrade, our glorious offensive is engaged in heavy fighting against well-armed fanatical terrorists.  Air support from the Hind helicopters is urgently required.  Focus your attention on the heavy machine guns and mortar positions.
+:EOF

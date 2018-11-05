@@ -1,0 +1,17 @@
+:Title
+Invasion Support
+:Description
+Helicopters: 4
+:Para
+Targets: Troops, armour at X and Y
+:Para
+Weapons: FAE500, S8, 9M114
+:Para
+Take-off time: 12:30
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, you are required to attack the cowardly enemy positions using fuel air bombs. Top priority must be given to destroying any foolhardy enemy attack on our landing craft.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Evacuation Escort
+:Description
+Helicopters: 4
+:Para
+Targets: Aircraft, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 17:30
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+The Apaches are to escort the evacuation transport helicopters, provide air cover and ground fire suppression. While the helicopters are landing and taking off the Apaches will stay airborne and provide covering fire.
+:EOF

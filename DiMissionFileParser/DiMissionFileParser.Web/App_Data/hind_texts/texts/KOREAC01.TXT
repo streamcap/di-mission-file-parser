@@ -1,0 +1,17 @@
+:Title
+Motherland Invasion Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Helicopters, ships
+:Para
+Weapons: UPK23, S8, 9M114
+:Para
+Take-off time: 07:20
+:Para
+Flight time: 15 mins
+:Para
+Weather: Clear
+:Para
+The devious enemy is using landing craft and barges to reinforce their vicious invading forces. Several Apache helicopters are providing air cover. Comrade, you are required to attack the helicopters and then destroy as much of the shipping as possible using anti-tank missiles and rockets.
+:EOF

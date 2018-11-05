@@ -1,0 +1,7 @@
+:Situation
+Comrade, our mighty armoured column is now approaching our brave special forces from Barikot. There are numerous doomed guerrilla positions that need attacking in this final battle. Aerial support is essential for our glorious troops to achieve their objective.
+:Stalemate
+Numerous guerrillas are known to still be in the area, threatening the safety of the convoy.  You are expected to be more thorough in your assigned  tasks.  You will not be forgiven if you jeopardise the campaign.
+:Failure
+After significant allied losses our courageous special forces have retreated into Barikot. Regrettably, the relief column has been forced to withdraw after very heavy fighting. Comrade, the airlift into Barikot must resume, and further attacks on the ruthless guerrilla positions are now necessary.
+:EOF

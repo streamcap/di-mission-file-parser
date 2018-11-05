@@ -1,0 +1,17 @@
+:Title
+Bridge Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Artillery, Tanks, APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 19:10
+:Para
+Flight time: 26 mins
+:Para
+Weather: Clear
+:Para
+An armored squad of government forces has cut the Ta'izz to Al 'Adan highway by taking control of a bridge. A squad of marines have been tasked with re-opening the route with Apaches destroying the artillery and tanks. An advance guard of special forces has already infiltrated the area and will laser designate the targets.
+:EOF

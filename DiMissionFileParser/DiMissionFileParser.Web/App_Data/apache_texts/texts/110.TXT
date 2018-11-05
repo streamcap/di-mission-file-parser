@@ -1,0 +1,23 @@
+:Title
+Munitions Factory Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Munitions factory, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 19:50
+:Para
+Flight time: 17 mins
+:Para
+Weather: Clear
+:Para
+An enemy munitions factory is located in a residential area in Kaesong and needs to be destroyed. A precision attack with fixed wing aircraft has been ruled out due to the heavy air defenses. High command have decided to use Apache helicopters armed with Hellfire missiles. Use any available cover during the attack and make sure that you do not hit civilian buildings.
+:Outstanding
+The destruction of the munitions complex with no civilian casualties was an excellent example of precision weapons delivery and has been highly acclaimed around the world. You can take credit for this.
+:Success
+The partial destruction of the munitions complex with no civilian casualties was a excellent example of precision weapons delivery. Unfortunately, the site is expected to be operational again within days.
+:Failure
+The hitting of civilian targets by the Apache helicopters has been skillfully exploited by the enemy propaganda machine. To appease hostile world opinion, allied high command have agreed to hold an inquiry and reprimand those responsible.
+:EOF

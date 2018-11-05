@@ -1,0 +1,17 @@
+:Title
+Oil-field Civilian Rescue
+:Description
+Helicopters: 4
+:Para
+Targets: Aircraft, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 15:30
+:Para
+Flight time: 22 mins
+:Para
+Weather: Clear
+:Para
+The transport helicopters carrying the civilians from the oil-field to the ships need an escort due to the risk from enemy ground fire and aircraft. Any attack from the government or rebel positions nearby must be suppressed quickly.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Warship Strike
+:Description
+Helicopters: 4
+:Para
+Targets: Escort ships
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 17:25
+:Para
+Flight time: 19 mins
+:Para
+Weather: Overcast
+:Para
+A convoy of supply ships escorted by several destroyers and frigates is heading for the Salamis area. The convoy is being protected by Turkish F16's on CAP. The F16's will be engaged by American F14's and F18's while the Apaches attack the enemy warships. The civilian supply ships are not to be targeted.
+:EOF

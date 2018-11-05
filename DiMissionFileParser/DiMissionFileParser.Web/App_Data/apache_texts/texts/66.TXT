@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Chain Gun - Ground Attack
+:Description
+Helicopters: 1
+:Para
+Targets: Practice battlefield armor and trucks
+:Para
+Weapons: Chain gun
+:Para
+Take-off time: 02:30
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+Your Apache is armed with 1200 30mm rounds of ammunition.  Your targets will be lightly armored vehicles and trucks.  Use this mission to practice target recognition using the TADS and gun operation using the helmet-mounted sight.  Restrict the firing of your weapons to targets at waypoint X.
+:EOF

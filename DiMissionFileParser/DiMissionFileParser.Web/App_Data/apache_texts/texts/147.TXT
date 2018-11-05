@@ -1,0 +1,23 @@
+:Title
+APACHE - Remote Bombing of a Strategic Bridge
+:Description
+Helicopters: 2
+:Para
+Targets: Laser designate bridge, air defences
+:Para
+Weapons: 16 Hellfire, Stingers
+:Para
+Take-off time: 06:24
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+In order to disrupt enemy supplies it is essential to destroy a bridge over the Kesong-Gang river. You are required to eliminate the air defences and then laser designate the bridge by 06:30 for an attack by F16's using laser guided bombs.
+:Outstanding
+The total destruction of this strategic bridge is a tremendous victory for the Apache pilots. The enemy's troops are now isolated and about to be attacked by our ground forces.
+:Success
+Destruction of this choke point has stopped the enemy's supplies from reaching the front-line. You have executed your mission well.
+:Failure
+Failure to destroy this strategic target has allowed the enemy to strengthen their forces and launch a major counter-attack. Your performance must improve dramatically if our troops are to succeed.
+:EOF

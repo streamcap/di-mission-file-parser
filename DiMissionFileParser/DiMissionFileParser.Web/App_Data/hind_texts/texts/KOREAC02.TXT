@@ -1,0 +1,17 @@
+:Title
+Destroy the Enemy Bridgehead
+:Description
+Helicopters: 3
+:Para
+Targets: Troops, armour
+:Para
+Weapons: FAE500, S8, 9M114
+:Para
+Take-off time: 07:20
+:Para
+Flight time: 7 mins
+:Para
+Weather: Clear
+:Para
+The weak enemy bridgehead consists of special forces with APCs and tanks. Comrade, use fuel-air bombs to annihilate their miserable troops and then attack the armour with missiles and rockets.
+:EOF

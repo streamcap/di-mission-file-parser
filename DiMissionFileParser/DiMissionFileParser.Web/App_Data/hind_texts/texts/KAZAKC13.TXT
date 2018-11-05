@@ -1,0 +1,17 @@
+:Title
+Strengthen the Allied Defences
+:Description
+Helicopters: 3
+:Para
+Targets: Armour, air defences, lay mines at X
+:Para
+Weapons: KMGU-2, R60, 9M114
+:Para
+Take-off time: 12:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+The allied advance around the city's perimeter is proceeding well.  Unfortunately our brave forces on the inner flank are being spread too thinly. Comrade, in order to strengthen our position, you are required to lay a minefield at waypoint X.  You will then proceed to attack enemy positions in the area.
+:EOF

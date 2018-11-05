@@ -1,0 +1,17 @@
+:Title
+Eliminate the Enemy Reinforcements
+:Description
+Helicopters:3
+:Para
+Targets:Mujaheddin troop formations
+:Para
+Weapons:Cannon, Rockets, 9M114
+:Para
+Take-off time:04:00
+:Para
+Flight time:6 mins
+:Para
+Weather:Clear
+:Para
+Several groups of well-armed guerrillas have been seen heading towards Jalalabad to reinforce the malicious Mujaheddin. Comrade, you are instructed to search the area and eliminate any terrorists encountered.
+:EOF

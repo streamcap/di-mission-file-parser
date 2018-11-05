@@ -1,0 +1,17 @@
+:Title
+Airfield Tank Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Tanks
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 11:35
+:Para
+Flight time: 15 mins
+:Para
+Weather: Clear
+:Para
+Enemy tanks have moved into the area and are shelling the airfield. Intelligence sources have identified air defenses amongst the tanks. Engage the tanks while other Apaches attack the air defenses.
+:EOF

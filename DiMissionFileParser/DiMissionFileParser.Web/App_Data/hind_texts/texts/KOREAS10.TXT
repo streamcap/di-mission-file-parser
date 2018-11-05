@@ -1,0 +1,23 @@
+:Title
+Supply Convoy Ambush
+:Description
+Helicopters: 2
+:Para
+Targets: Trucks, APC's, deploy troops at X
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 13:05
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+An enemy supply convoy has been located en route from Seoul to the front line.  Our brilliant and cunning Generals have located a perfect ambush site. Deploy your courageous special forces and then conceal yourself at the ambush point. When the dumb enemy walk into the trap you are required to deal with them accordingly.
+:Outstanding
+The ambush and total destruction of the enemy supply column has left the hated enemy short of supplies. Comrade, further successful actions like this will lead to their total defeat.
+:Success
+The successful ambush of the enemy supply column has stopped the enemy from launching a counter-attack.
+:Failure
+Comrade, your bundling of this cunning and simple operation should make you hang your head in shame. You must return to the motherland and undergo intensive training for your obvious shortcomings as a pilot.
+:EOF

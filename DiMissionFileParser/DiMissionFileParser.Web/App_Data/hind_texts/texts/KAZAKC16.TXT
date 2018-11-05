@@ -1,0 +1,17 @@
+:Title
+Hip Escort
+:Description
+Helicopters: 4
+:Para
+Targets: Aircraft, air defences, rescue at X
+:Para
+Weapons: S8, R60, 9M114
+:Para
+Take-off time: 23:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, you will escort Hip helicopters carrying supplies to the drop zone. While the Hips unload, you will survey the area and eliminate enemy positions.  You will then land and pick up casualties before escorting the Hips back to base.
+:EOF

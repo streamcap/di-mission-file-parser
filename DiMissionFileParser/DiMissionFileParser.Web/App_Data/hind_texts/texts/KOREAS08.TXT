@@ -1,0 +1,23 @@
+:Title
+Remote bombing of a bridge
+:Description
+Helicopters: 2
+:Para
+Targets: Bridge
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 3:25
+:Para
+Flight time: 20 mins
+:Para
+Weather: Clear
+:Para
+Bitter fighting continues between our glorious forces and the enemy's miserable troops. It is necessary to tip the balance in our favour by destroying a vital bridge over the Han-Gang river. Comrade, eliminate the enemy's vicious air defences and then laser designate the bridge by 03:40 for an attack by our powerful MiG 27's with their devastating laser guided bombs.
+:Outstanding
+Congratulations Comrade.  The total destruction of this vital bridge has prevented the allies from launching a counter-attack and enabled our magnificent troops to advance further into enemy territory.
+:Success
+Comrade, the destruction of this vital bridge has stopped the allies from launching a counter-attack.  However, supplies are continuing to get through.
+:Failure
+Your failure to destroy the bridge has allowed the hated enemy to launch a successful counter-attack. Our brave troops may retrieve the situation if they receive better air support on future missions.
+:EOF

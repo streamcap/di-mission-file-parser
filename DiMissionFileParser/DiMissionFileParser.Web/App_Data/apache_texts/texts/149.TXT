@@ -1,0 +1,23 @@
+:Title
+APACHE - Airfield Attack
+:Description
+Helicopters:
+:Para
+Targets:
+:Para
+Weapons:
+:Para
+Take-off time:
+:Para
+Flight time:
+:Para
+Weather:
+:Para
+Airborne attacks are causing major disruption to a number of allied operations. You will assist in a co-ordinated attack against the enemy air base, with several other helicopters and aircraft. Concentrate on destroying aircraft at the airfield.  Your wingmen and other aircraft will disable the air defences. Enemy combat air patrols are known to be in the area so proceed with caution.
+:Outstanding
+Your outstanding contribution to the raid has crippled the enemy's air defences. Our air superiority allows further sorties in support of our forces.
+:Success
+Your contribution to the raid has dealt a severe blow to the enemy's air force. Further raids in support of our forces should result in air superiority.
+:Failure
+The enemy is close to achieving air superiority as a result of your pitiful efforts. Your days as an Apache pilot may be numbered.
+:EOF

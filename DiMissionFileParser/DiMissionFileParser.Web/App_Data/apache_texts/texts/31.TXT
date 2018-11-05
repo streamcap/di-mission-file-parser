@@ -1,0 +1,17 @@
+:Title
+Destroy Mobile Communications Vehicles
+:Description
+Helicopters: 4
+:Para
+Targets: Comms vehicles, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 16:10
+:Para
+Flight time: 17 mins
+:Para
+Weather: Overcast
+:Para
+Two enemy mobile communications centers have been identified as the central collection and processing points for all tactical information coming from the battlefield. You must attack and destroy these well concealed targets. There are numerous air defenses in the region.
+:EOF

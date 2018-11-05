@@ -1,0 +1,17 @@
+:Title
+Supply Convoy Escort
+:Description
+Helicopters: 2
+:Para
+Targets: Escort convoy
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 07:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+Several truck convoys carrying food to the motherland have already been attacked by vindictive enemy aircraft. You are required to escort a convoy from Incheon to the Han-Gang river. 
+:EOF

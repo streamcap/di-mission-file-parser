@@ -1,0 +1,5 @@
+:Situation
+Ships of the task force are now sufficiently close to the shore for them to come under fire from shore-based guns and anti-ship Silkworm missiles. These weapons need to be located and destroyed before the the task force suffers damage. If the ships have to move off station it will have a detrimental effect on operations.
+:Failure
+The success of this attack by the Yemen forces has stopped the re-supply of the marines holding key-points on the highway. The marines have now retreated to the main assembly area. Government forces that were counter attacking have retaken these strategic points. This area must be secured by the Marines before the evacuation plan can continue.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Artillery Threat
+:Description
+Helicopters: 4
+:Para
+Targets: Artillery, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:15
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+The Turkish army has set up artillery positions east of Vatili so Dhekelia is within range. They are threatening to bombard the base unless the British and American Governments guarantee not to get involved with Cypriot internal affairs. You have been tasked with finding the camouflaged positions and destroying them. To protect their artillery the Turks have moved an air defense battalion into the area. 
+:Outstanding
+Destruction of  the artillery units has made the Turkish government withdraw its threat against the British and Americans.  Your performance was admirable.
+:Success
+Although most of the artillery positions have been destroyed, some shelling of the base has occurred. This has now stopped due to the allies threatening to silence the rest of the guns if they were not withdrawn.
+:Failure
+The artillery units have caused significant damage and casualties before being silenced by a precision high level bombing raid by USAF B52's. World-wide television has publicized your incompetence.
+:EOF

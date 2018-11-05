@@ -1,0 +1,23 @@
+:Title
+Mine Laying
+:Description
+Helicopters: 2
+:Para
+Targets: Lay mines at X and Y
+:Para
+Weapons: KMGU-2, 9M114
+:Para
+Take-off time: 05:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Overcast
+:Para
+Allied operations continue to restrict the movement of the murderous guerrillas.  Comrade, you are required to lay minefields amongst the remains of two villages.
+:Outstanding
+Comrade, your skilful and heroic flying has stopped the brutal guerrillas from using the villages for their devious military purposes. You have performed your task well.
+:Success
+Comrade, your skilful flying has stopped the brutal guerrillas from using the villages for their devious military purposes.
+:Failure
+Your failure has allowed the barbaric guerrillas to increase their forces in the area. Comrade, your incompetence has resulted in our brave forces suffering extensive casualties.
+:EOF

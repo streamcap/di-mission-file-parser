@@ -1,0 +1,7 @@
+:Situation
+The barbaric Mujaheddin have consolidated their gains and launched a vicious attack on two fronts with the aim of surrounding the town. Units cowering behind the front line are providing covering fire with mortars. Comrades, our courageous forces must be provided with effective air support in order to save this desperate situation.
+:Stalemate
+Comrade, as a result of your indifferent performance, the allies have made little progress against the miserable guerrilla attack. Better support must be provided if the attack is to succeed.
+:Failure
+The town of Jalalabad has been surrounded by the murderous Mujaheddin. Large numbers of brave allied troops have been confined to the town. Comrade, your superiors have blamed the Hind aircrew for this disaster. The campaign has been abandoned with several Hind pilots, including you comrade, left with a uncertain future.
+:EOF

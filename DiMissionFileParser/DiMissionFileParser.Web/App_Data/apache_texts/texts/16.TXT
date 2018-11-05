@@ -1,0 +1,17 @@
+:Title
+Gunboat Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Osa II gunboats
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 14:55
+:Para
+Flight time: 20 mins
+:Para
+Weather: Clear
+:Para
+Gunboats have been detected to the west of the task force. Engage the boats before their Styx missiles are in range of the task force. The gunboats have only limited AAA protection and SA-N-5 IR SAM's.
+:EOF

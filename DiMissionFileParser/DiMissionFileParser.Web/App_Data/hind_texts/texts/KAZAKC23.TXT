@@ -1,0 +1,17 @@
+:Title
+Decapitation
+:Description
+Helicopters: 2
+:Para
+Targets: Building, deploy troops at Y
+:Para
+Weapons: FAB500, 9M114
+:Para
+Take-off time: 10:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+Comrade, now that we have identified the rebel's headquarters you are required to bomb the site and then deploy your special forces to complete the decapitation.
+:EOF

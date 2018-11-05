@@ -1,0 +1,17 @@
+:Title
+Built-up Area Reconnaissance
+:Description
+Helicopters: 3
+:Para
+Targets: Reconnaissance at X,Y,Z
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 09:00
+:Para
+Flight time:
+:Para
+Weather: Clear
+:Para
+Comrade, you are tasked with making a reconnaissance flight over the built-up area.  Neutralise any air defences in preparation for a major air assault.
+:EOF

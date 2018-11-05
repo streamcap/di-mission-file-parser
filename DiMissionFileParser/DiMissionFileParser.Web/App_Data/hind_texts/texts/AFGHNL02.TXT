@@ -1,0 +1,7 @@
+:Situation
+The Mujaheddin attack on Jalalabad must be repelled quickly if the allied offensive to Barikot is to continue. Comrade, air support is needed to attack numerous guerrilla reinforcements arriving in the area and for disrupting the enemy's supply lines.
+:Stalemate
+Comrade, your mediocre air support has necessitated further attacks before the mighty allied offensive can begin.
+:Failure
+Your feeble and uncoordinated response to the Mujaheddin attack has enabled them to advance on Jalalabad and consolidate their position. Further attacks are expected as the blood thirsty guerrillas encircle the town. Your contribution to this campaign must improve dramatically if our courageous forces are not to suffer an embarrassing defeat.
+:EOF

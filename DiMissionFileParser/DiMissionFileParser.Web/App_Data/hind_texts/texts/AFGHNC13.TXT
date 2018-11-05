@@ -1,0 +1,17 @@
+:Title
+Guerrilla Base Attack
+:Description
+Helicopters: 3
+:Para
+Targets: Enemy base
+:Para
+Weapons: Rockets, R60, 9M114
+:Para
+Take-off time: 19:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Overcast
+:Para
+Our mighty offensive is approaching the Pakistan border.  Our brilliant leaders have decided to weaken the barbaric guerrillas by attacking their bases and ammunition dumps. Comrade, you are instructed to cross the border, execute the attack and return as quickly as possible. There is a considerable danger of being intercepted by Pakistani F16 aircraft or Cobra helicopters.
+:EOF

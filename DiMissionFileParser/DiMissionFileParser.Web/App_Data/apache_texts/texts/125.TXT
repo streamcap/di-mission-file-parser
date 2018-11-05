@@ -1,0 +1,23 @@
+:Title
+Anti-Helicopter Sweep
+:Description
+Helicopters: 2
+:Para
+Targets: Helicopters
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 08:45
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+High Command has decided to launch an anti-helicopter sweep across enemy territory. You must pursue and destroy as many helicopters as possible in your sector.  Several areas are well defended so proceed with caution.
+:Outstanding
+The destruction of so many helicopters has made the enemy suspend all flights in the region. Your bravery has hit the headlines.
+:Success
+This successful operation has subdued enemy aerial activity in the region.
+:Failure
+Enemy SuperCobras in your sector have inflicted heavy damage upon allied armored formations.  Your failure has resulted in heavy allied casualties.
+:EOF

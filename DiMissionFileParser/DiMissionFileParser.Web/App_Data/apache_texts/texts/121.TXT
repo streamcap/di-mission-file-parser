@@ -1,0 +1,23 @@
+:Title
+Anti-Tank Sweep
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 09:50
+:Para
+Flight time: 15 mins
+:Para
+Weather: Overcast
+:Para
+The enemy has a large number of  tanks just behind the front line. The allies want to weaken the enemy's position by destroying as much of this armor as possible. Each Apache has been allocated an area in which to find and destroy any tanks. Enemy positions are well supported with air defenses so expect large amounts of ground fire.
+:Outstanding
+This was a very effective mission with every tank in your sector destroyed. As a result of your excellent performance, the enemy forces have been weakened considerably.  
+:Success
+This was a successful mission with most of the tanks in your sector destroyed. Enemy forces have been  weakened considerably.
+:Failure
+Your failure to destroy the tanks in your front line sector means that the enemy still has a considerable numerical advantage.
+:EOF

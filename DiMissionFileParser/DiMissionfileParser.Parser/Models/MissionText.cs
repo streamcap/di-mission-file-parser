@@ -7,14 +7,14 @@ namespace DiMissionfileParser.Parser.Models
     public class MissionText
     {
         public string FileName { get; }
-        public IDictionary<string, IList<string>> Labels { get; }
-        public IList<string> Source { get; set; }
+        public IDictionary<string, MissionContents> Labels { get; }
+        private IList<string> _source;
 
-        public MissionText(string fileName, Dictionary<string, IList<string>> labels = null, IList<string> lines = null)
+        public MissionText(string fileName, Dictionary<string, MissionContents> labels = null, IList<string> lines = null)
         {
             FileName = fileName;
-            Labels = labels != null ? labels.Where(l => l.Key != "").ToDictionary(l => l.Key.Replace(":", ""), l => l.Value) : new Dictionary<string, IList<string>>();
-            Source = lines;
+            Labels = labels != null ? labels.Where(l => l.Key != "").ToDictionary(l => l.Key.Replace(":", ""), l => l.Value.ToContents()) : new Dictionary<string, MissionContents>();
+            _source = lines;
         }
         public static MissionText Parse(string fileName, IList<string> lines)
         {

@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Cannon Pods - Air Combat
+:Description
+Helicopters: 1
+:Para
+Targets: Aircraft
+:Para
+Weapons: UPK23
+:Para
+Take-off time: 11:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+This devastating fixed trajectory weapon is a very effective air combat weapon. Comrade, your silicon Weapon Systems Operator will give assistance if selected. Hone your air-to-air skills against a range of targets between waypoints X and Y.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Engineering and Repair Vehicles
+:Description
+Helicopters: 2
+:Para
+Targets: Engineering vehicles
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 16:20
+:Para
+Flight time: 9 mins
+:Para
+Weather: Overcast
+:Para
+The Turkish army has positioned a number of engineering vehicles behind the front line. Due to the nature of the Cypriot terrain these vehicles will play an important role in any enemy advance. Your mission is to reduce the chances of such an attack by destroying these vehicles.
+:Outstanding
+All of the support vehicles in the area were destroyed much reducing the chances of an all out enemy attack.
+:Success
+Most of the support vehicles in the area were destroyed making an all out attack by the enemy less likely.
+:Failure
+Most of the support vehicles remain intact with the build up of Turkish invasion forces almost complete. This was a poor performance against a lightly defended target.
+:EOF

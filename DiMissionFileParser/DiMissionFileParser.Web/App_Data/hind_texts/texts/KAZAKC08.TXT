@@ -1,0 +1,17 @@
+:Title
+Air Defence Suppression
+:Description
+Helicopters: 3
+:Para
+Targets: SAM's, AAA
+:Para
+Weapons: S8, R60, 9M114
+:Para
+Take-off time: 02:00
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+The vicious rebels are using AAA and SAM's to attack allied aircraft using the air base. Comrade, you are required to seek and destroy these miserable cowards.
+:EOF

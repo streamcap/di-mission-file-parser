@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Hellfire Missiles
+:Description
+Helicopters: 1
+:Para
+Targets: Practice battlefield armor
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 07:30
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+The Hellfire air-to-ground missile is the Apache's primary weapon for use against armored vehicles and hardened ground targets.  Your Apache is armed with eight radar-guided Hellfire missiles and eight laser-guided Hellfire missiles.  Use this mission to familiarize yourself with Hellfire operation, ground radar and IHADSS symbology. Restrict the firing of your weapons to targets at waypoint X.
+:EOF

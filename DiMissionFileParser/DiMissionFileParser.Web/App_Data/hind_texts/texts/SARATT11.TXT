@@ -1,0 +1,17 @@
+:Title
+Weapons Training - 500kg Bombs
+:Description
+Helicopters: 1
+:Para
+Targets: Target at X
+:Para
+Weapons: FAB500 bombs
+:Para
+Take-off time: 07:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+This large general purpose bomb can be used against a wide range of ground targets. Comrade, the inner pylons of your Hind are loaded with two of these highly explosive bombs for use against an old building at waypoint X. To avoid any blast damage make sure you are above the minimum release height of 300m, with a speed of 300kph.
+:EOF

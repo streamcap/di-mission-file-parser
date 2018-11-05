@@ -1,0 +1,23 @@
+:Title
+Stop Enemy Tank Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 16:30
+:Para
+Flight time:
+:Para
+Weather: Clear
+:Para
+Enemy tanks are approaching a Marine task force that has secured a strategic bridge on the Ta'izz to Al 'Adan highway. Intercept and destroy the tanks before they are able to retake the bridge.  The Marines are lightly armed and heavy casualties will result if the enemy tanks reach their target. The enemy tanks are supported with mobile air defenses.
+:Outstanding
+The destruction of all of the tanks before they reached the bridge has enabled the Marine squad to repel an enemy infantry counter-attack with no casualties. Well done.
+:Success
+The destruction of most of the tanks has enabled the Marines to defend the bridge successfully but at the cost of some casualties.
+:Failure
+The Apaches' inadequate support has allowed the Marines to be attacked by an overwhelming force of enemy tanks. After very heavy fighting in which the Marines suffered a large number of casualties, they have finally surrendered. 
+:EOF

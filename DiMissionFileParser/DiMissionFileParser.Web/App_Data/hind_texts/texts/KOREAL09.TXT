@@ -1,0 +1,7 @@
+:Situation
+Ships and trucks carrying food back to the motherland have been attacked by our malicious enemy. Comrade, your assistance is urgently required to protect these valuable commodities.
+:Stalemate
+The destruction of relief trucks means that more convoys must travel to the motherland. Comrade, make maximum effort to support the convoys as resources are limited.
+:Failure
+The vicious enemy has launched a counter-attack in the Incheon area. Comrade, your inadequate air support has lead to additional special forces requiring deployment before the relief operation can continue.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Reinforce the Besieged Garrison
+:Description
+Helicopters: 3
+:Para
+Targets: Armour, defences, deploy troops at X
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 17:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Overcast
+:Para
+The vindictive rebels have surrounded an allied garrison. Comrade, they urgently need air support and reinforcements so that they can defend the area until they can be rescued. Attack the rebel air defences before deploying your troops.
+:Outstanding
+Your outstanding air support and prompt deployment of our glorious troops has contributed well to the defence of the besieged garrison. Comrade, the defending troops express their gratitude.
+:Success
+Your adequate air support and deployment of your courageous forces has contributed well to the defence of the besieged garrison.
+:Failure
+Comrade, your feeble efforts in this desperate situation have lead to a massacre at the besieged garrison. Doubts are being expressed about your patriotism.
+:EOF

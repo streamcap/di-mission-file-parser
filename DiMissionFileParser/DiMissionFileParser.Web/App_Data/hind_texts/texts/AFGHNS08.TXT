@@ -1,0 +1,23 @@
+:Title
+Enemy Supply Column Attack
+:Description
+Helicopters: 3
+:Para
+Targets: Truck convoy
+:Para
+Weapons: Rockets, R60, 9M114
+:Para
+Take-off time: 07:00
+:Para
+Flight time: 16 mins
+:Para
+Weather: Overcast
+:Para
+A Mujaheddin supply column has been located in the Pakistan-Afghanistan border region. Comrade, you have permission to cross the border in pursuit of the ruthless enemy, but be on your guard for Pakistani Cobra helicopters and F16 aircraft.
+:Outstanding
+Your destruction of the supply column has starved the hated guerrillas of their supplies. Comrade, your efforts have reduced the frequency and intensity of attacks by the miserable enemy.
+:Success
+The partial destruction of the supply column has reduced supplies reaching the cowardly guerrillas. The number of enemy attacks has diminished.
+:Failure
+Comrade, your pathetic performance has allowed the vicious Mujaheddin guerrillas to re-supply their troops and intensify their attacks against our courageous forces.
+:EOF

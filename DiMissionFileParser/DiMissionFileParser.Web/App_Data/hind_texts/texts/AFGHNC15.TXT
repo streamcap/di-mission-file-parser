@@ -1,0 +1,17 @@
+:Title
+Special Forces Attack on Enemy Positions
+:Description
+Helicopters:3
+:Para
+Targets:Deploy troops at X, Air support at Y
+:Para
+Weapons:KMGU-2, R60 Missiles, 9M114
+:Para
+Take-off time:09:00
+:Para
+Flight time:12 mins
+:Para
+Weather:Light fog
+:Para
+Comrade, your role is crucial to this well-planned operation.  You will first deploy our brave special forces behind the enemy's position, while your wingmen provide air cover. You will then defend your wingmen as they lay minefields on the eastern flank. The Hind formation will provide battlefield support as the allied battalion completes this classic attack manoeuvre.
+:EOF

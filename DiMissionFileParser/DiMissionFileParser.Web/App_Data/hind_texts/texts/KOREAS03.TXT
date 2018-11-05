@@ -1,0 +1,23 @@
+:Title
+Decapitation
+:Description
+Helicopters: 3
+:Para
+Targets: Government buildings, deploy troops at Y
+:Para
+Weapons: Rockets, R60, 9M114
+:Para
+Take-off time: 5:05
+:Para
+Flight time: 20 mins
+:Para
+Weather: Clear
+:Para
+The imperialist fascist leaders of the corrupt capitalist nation of South Korea must be eliminated. Comrade, your attack begins with the bombing of several government buildings in the capital Seoul, followed by the deployment of large numbers of our brave special forces. While you are deploying our courageous troops other helicopters will suppress the enemy's miserable air defences.
+:Outstanding
+This has been an outstanding raid. Most of the fascist South Korean political and military leadership have been eliminated. Comrade, this is a major step towards the liberation of South Korea.
+:Success
+This has been a successful raid. A significant number of the corrupt South Korean political and military leadership were eliminated. Comrade, this result will help towards our liberation of South Korea.
+:Failure
+The imperialist South Korean leadership has been spared from this decapitation attempt by your bungling efforts. Comrade, you are in danger of being sent to one of our correction centres.
+:EOF

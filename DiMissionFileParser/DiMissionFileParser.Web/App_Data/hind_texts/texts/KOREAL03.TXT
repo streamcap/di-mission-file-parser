@@ -1,0 +1,7 @@
+:Situation
+Our objective is to blind the complacent enemy with the destruction of their early warning radar sites and their command and control centres. A diversion will be launched to make the cowardly enemy believe that our objective is the liberation of the capital city Seoul.
+:Stalemate
+The attack has spread alarm and confusion through our feeble enemy, but further sorties are needed before we can proceed with the campaign.
+:Failure
+Your failure to accomplish your mission has allowed the enemy to respond well to our attack. Our glorious troops on the northern bank of the Han-Gang river are under severe threat. Your superiors expect the Hind crews to contribute more effectively in this campaign.
+:EOF

@@ -1,0 +1,7 @@
+:Situation
+Aggressive rebel army units are manoeuvring on our western flank. It is anticipated they will continue north and attempt to cut off our supply routes. Comrade, effective air support and the deployment of special forces will halt the rebel activities.
+:Stalemate
+Comrade, our response to the rebel activity has been partially successful.  However, more air attacks are required to crush the rebel operation completely.
+:Failure
+Your failure to deal effectively with the warmongering rebel forces has resulted in the disruption of our supply lines. Comrade, your performance must improve dramatically if this operation is not to end in disaster.
+:EOF

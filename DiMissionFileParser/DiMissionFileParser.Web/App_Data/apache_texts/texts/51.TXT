@@ -1,0 +1,17 @@
+:Title
+Armored Support Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Engineering vehicles
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 08:40
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+A Turkish engineering battalion with bridge crossing equipment is following an armored column. Your task is to locate and destroy this battalion. There are extensive air defenses in the area.
+:EOF

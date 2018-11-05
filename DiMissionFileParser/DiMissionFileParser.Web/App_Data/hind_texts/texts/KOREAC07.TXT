@@ -1,0 +1,17 @@
+:Title
+Diversionary Raid on Seoul
+:Description
+Helicopters: 4
+:Para
+Targets: Fortifications
+:Para
+Weapons: UPK23,S8,9M114
+:Para
+Take-off time: 08:30
+:Para
+Flight time: 18 mins
+:Para
+Weather: Clear
+:Para
+There are a number of enemy defensive fortifications to the north of Seoul. Comrades, you are required to attack these fortifications in order to make the stupid enemy believe that we intend to liberate the capital city Seoul.
+:EOF

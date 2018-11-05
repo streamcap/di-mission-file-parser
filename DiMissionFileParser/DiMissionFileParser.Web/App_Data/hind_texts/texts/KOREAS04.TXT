@@ -1,0 +1,23 @@
+:Title
+Armoured Battlefield Support
+:Description
+Helicopters: 3
+:Para
+Targets: Tanks, APC's
+:Para
+Weapons: UPK23, rockets, 9M114
+:Para
+Take-off time: 7:30
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Our magnificent and victorious troops have penetrated several miles into enemy territory. However, the enemy's foolish and fanatical resistance has stalled the operation. Comrade, a swift attack is required on the miserable enemy armour in order to get our courageous troops moving again.
+:Outstanding
+Comrade, your highly effective battlefield support has enabled our glorious forces to continue their magnificent advance deep into enemy territory.
+:Success
+Comrade, your effective battlefield support has enabled our courageous forces to continue their brilliant advance into enemy territory.
+:Failure
+Your miserable attempt at battlefield support has enabled the savage enemy to launch a successful counter-attack. Comrade, if your performance does not improve then your future as a pilot will be short.
+:EOF

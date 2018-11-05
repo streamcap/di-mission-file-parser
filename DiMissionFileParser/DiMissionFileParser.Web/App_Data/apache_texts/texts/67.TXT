@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Stinger - Air Combat
+:Description
+Helicopters: 1
+:Para
+Targets: Practice drone aircraft
+:Para
+Weapons: 4 Stinger
+:Para
+Take-off time: 17:30
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Your Apache is armed with 4 Stinger IR air-to-air missiles.  Use this mission to familiarize yourself with air radar operation, weapon effectiveness and IHADSS symbology.  Suitable air targets will be found in the vicinity of waypoint X.
+:EOF

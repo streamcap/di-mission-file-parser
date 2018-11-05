@@ -1,0 +1,23 @@
+:Title
+Lefkoniko Airfield Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Aircraft, Trucks etc.
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 23:50
+:Para
+Flight time: 13 mins
+:Para
+Weather: Overcast
+:Para
+The Turkish airfields at Nicosia, Lefkoniko and Salamis all represent a considerable threat to the allied forces. They are to be attacked simultaneously with you assigned to Lefkoniko. Your priorities are any aircraft on the ground followed by other soft targets such as refueling trucks. The airfields are extremely well defended with many AAA and SAM sites and a CAP umbrella. Air defense suppression should be left to other members of the team.
+:Outstanding
+The enemy has suffered a considerable loss of aircraft and the airfield has been put totally out of action. This is a major advance towards allied control of the island. Well done.
+:Success
+The enemy has suffered a considerable loss of aircraft with most of the airfield put out of action. It will be several days before the airfield becomes operational.
+:Failure
+The failure of the attack on the airfield has boosted enemy morale. Several enemy raids have been attempted on Akrotiri and Dhekelia in retaliation.
+:EOF

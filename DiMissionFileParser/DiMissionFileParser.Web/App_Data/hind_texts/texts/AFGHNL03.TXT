@@ -1,0 +1,7 @@
+:Situation
+Our powerful armoured column is advancing to secure the supply route from Jalalabad to Chagha Sarai.  Your role, comrade,  is to scout ahead of the column, attack any guerrillas encountered and then to deploy our courageous special forces.
+:Stalemate
+The attacks on the exposed guerrilla positions have been moderately successful. However, further attacks on the Mujaheddin terrorists are necessary.
+:Failure
+The lack of air support has stalled the allied offensive. The ruthless Mujaheddin have responded with a counter-attack towards Jalalabad. Comrade, the Hind pilots are blamed for this embarrassing failure!
+:EOF

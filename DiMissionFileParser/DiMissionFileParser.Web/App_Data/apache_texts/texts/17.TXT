@@ -1,0 +1,17 @@
+:Title
+Mine-laying Boat Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Mine-laying boats
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 14:55
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+A reconnaissance aircraft has sighted several Yemen fishing boats with mines on board . Scramble your Apache and sink the boats before they can lay their mines otherwise the task force will have to move to a safe area until a mine-sweeper can join the group.
+:EOF

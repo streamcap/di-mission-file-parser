@@ -1,0 +1,17 @@
+:Title
+Civilian Rescue Route Clearance
+:Description
+Helicopters: 2
+:Para
+Targets: Fortifications, Tanks, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 15:30
+:Para
+Flight time: 22 mins
+:Para
+Weather: Clear
+:Para
+Reports from the assembly point include details of fortified Government positions. Apaches are to clear these positions a few minutes before the main evacuation force arrives. If the targets are not destroyed the evacuation force can expect heavy casualties.
+:EOF

@@ -1,0 +1,24 @@
+:Title
+Allied Special Forces Support
+:Description
+Helicopters: 2
+:Para
+Targets: Oil pumping station and buildings
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 14:50
+:Para
+Flight time: 21 mins
+:Para
+Weather: Clear
+:Para
+A squad of special forces have been dropped behind enemy lines to locate and destroy a strategic oil pipeline pumping station. They have radioed to say that they are in position and will designate the target at fifteen hundred hours. Your job is to destroy all  buildings at the pumping station. SAM and AAA defenses are on high alert.
+:Outstanding
+The oil pumping station has been totally destroyed and the special forces have been withdrawn from the region. The disruption is expected to cause fuel shortages for enemy forces. Congratulations on a good mission.
+:Success
+The oil pumping station has been put out of action but not totally destroyed. The disruption to fuel and oil supplies is not expected to last long.
+:Failure
+Your failure to destroy the oil pumping station has meant that allied special forces have been put at risk. Better results are expected from the Apache force in future.
+:EOF
+

@@ -1,0 +1,17 @@
+:Title
+Armoured patrol support
+:Description
+Helicopters: 2
+:Para
+Targets: Artillery, Mujaheddin
+:Para
+Weapons: UPK23, rockets, 9M114
+:Para
+Take-off time: 06:00
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+Comrade, you are urgently needed to provide air support for an armoured patrol that is pinned down by the Mujaheddin. The ruthless guerrillas are using heavy machine-guns from well dug-in positions, supported by mortar fire from behind the front-line.
+:EOF

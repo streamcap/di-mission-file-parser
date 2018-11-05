@@ -1,0 +1,23 @@
+:Title
+Supply Dump Attack and Deploy Special Forces
+:Description
+Helicopters: 4
+:Para
+Targets: Bunker, supply dump, deploy at Y
+:Para
+Weapons: FAB500, R60, 9M114
+:Para
+Take-off time: 21:00
+:Para
+Flight time: 15 mins
+:Para
+Weather: Overcast
+:Para
+A camouflaged enemy supply dump has been located. It consists of several ammunition bunkers and numerous pallets containing other stores. Comrade, you are required to bomb your assigned bunker and then attack the rebel air defences prior to deploying our special forces.
+:Outstanding
+Comrade, your accurate bombing of the bunker and courageous air defence suppression   has made this an outstanding mission.  Congratulations on the successful deployment of your expert demolition squad.
+:Success
+Comrade, your bombing of the bunker and adequate air defence suppression has made this a successful mission.  Well done.
+:Failure
+Your miserable failure on this important mission has earned you the contempt of your fellow officers. Your skills as a pilot are in serious doubt.
+:EOF

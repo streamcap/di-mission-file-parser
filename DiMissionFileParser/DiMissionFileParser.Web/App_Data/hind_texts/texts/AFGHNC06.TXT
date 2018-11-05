@@ -1,0 +1,17 @@
+:Title
+Special Forces Deployment
+:Description
+Helicopters: 4
+:Para
+Targets: Escort Hips to X, lay mines at Y
+:Para
+Weapons: KMGU-2, rockets, 9M114
+:Para
+Take-off time: 17:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Overcast
+:Para
+In advance of our mighty armoured offensive, our special forces are to set up outposts along the Jalalabad to Chagha Sarai road. Comrade, you are required to escort Hip transport helicopters to their landing zones and to provide covering fire while the courageous troops disembark. You will then lay a minefields as protection against ruthless guerrilla attacks.
+:EOF

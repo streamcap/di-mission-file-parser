@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Cannon Pods - Ground Attack
+:Description
+Helicopters: 1
+:Para
+Targets: Vehicles at X
+:Para
+Weapons: UPK23
+:Para
+Take-off time: 20:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Overcast
+:Para
+This heavy weapon with massive firepower is fitted to the inner pylons of your Hind. Comrade, use it assisted or unassisted by the silicon Weapon Systems Operator, against the dispersed armoured vehicles between X and Y.
+:EOF

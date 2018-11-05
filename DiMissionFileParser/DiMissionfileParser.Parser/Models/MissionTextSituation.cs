@@ -1,10 +1,11 @@
 ﻿using System.Collections.Generic;
+using DiMissionfileParser.Parser.Functions;
 
 namespace DiMissionfileParser.Parser.Models
 {
     public class MissionTextSituation : MissionText
     {
-        public MissionTextSituation(string fileName, Dictionary<string, IList<string>> labels, IList<string> lines)
+        public MissionTextSituation(string fileName, Dictionary<string, MissionContents> labels, IList<string> lines)
             : base(fileName, labels, lines)
         {
             Situation = AggregateLabelText(labels["Situation"]);

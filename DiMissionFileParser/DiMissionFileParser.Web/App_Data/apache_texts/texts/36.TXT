@@ -1,0 +1,17 @@
+:Title
+Pin-Point Attack on Enemy Armor
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 11:10
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+The enemy are using a well defended choke point to command a major sector of the front line. Special forces have infiltrated the area and are laser designating enemy armor. Concentrate on destroying this while other Apaches tackle the numerous air defenses.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Reinforce Allied Special Forces
+:Description
+Helicopters: 4
+:Para
+Targets: Deploy troops and evacuate casualties at X
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 16:00
+:Para
+Flight time: 8 mins
+:Para
+Weather: Overcast
+:Para
+The allied offensive has been under heavy attack for several hours. Comrade, reinforcements are urgently required and casualties need evacuating. Enter and leave the area as quickly as possible.
+:EOF

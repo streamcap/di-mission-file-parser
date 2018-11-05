@@ -1,0 +1,17 @@
+:Title
+Pre-emptive Strike on an EWR Site
+:Description
+Helicopters: 4
+:Para
+Targets: Radar site
+:Para
+Weapons: UPK23,S8, 9M114
+:Para
+Take-off time: 06:20
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+Comrades, you are required to obliterate an early warning radar site. The main radome and the ancillary buildings must all be destroyed. Air defences and enemy aircraft are nearby so be prepared. 
+:EOF

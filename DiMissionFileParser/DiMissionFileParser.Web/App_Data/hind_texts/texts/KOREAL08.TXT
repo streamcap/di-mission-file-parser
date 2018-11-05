@@ -1,0 +1,7 @@
+:Situation
+Our special forces are to be deployed to secure the food warehouses and distribution centres. Comrades, they will then make the necessary preparations for the efficient despatch of the food by land and sea back to the motherland.
+:Stalemate
+Our courageous special forces have not yet secured the food warehouses and distribution centres. Comrade, you are required to fly further missions in order to secure these objectives.
+:Failure
+Your failure to provide adequate air support has left our troops unable to achieve their objectives. Your incompetence has permitted the enemy to launch an attack on our eastern flank.
+:EOF

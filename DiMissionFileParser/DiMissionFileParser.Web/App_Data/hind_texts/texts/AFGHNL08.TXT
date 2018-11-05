@@ -1,0 +1,7 @@
+:Situation
+The allied offensive has encountered strong enemy defence positions. Aerial bombardments are expected to resolve this unexpected delay. The deployment of reinforcements and the evacuation of casualties will be necessary. Special forces are to be deployed behind enemy lines in order to sabotage equipment and supplies. 
+:Stalemate
+Comrade, the effectiveness of the Hind crews is well below expectations. The allies are suffering unacceptable losses and the campaign is progressing slower than anticipated.  Your superiors have no option but to increase the number of Hind sorties.
+:Failure
+Comrade, the despicable enemy has held its defensive positions well.  Allied casualties have necessitated a retreat.  Enemy morale is high now that they have demonstrated their abilities against our courageous armed forces. This disaster is being blamed on our lack of decisive air power.
+:EOF

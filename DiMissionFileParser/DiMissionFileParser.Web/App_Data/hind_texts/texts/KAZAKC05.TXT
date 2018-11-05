@@ -1,0 +1,17 @@
+:Title
+Battlefield Support
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, SAM's, AAA
+:Para
+Weapons: S8, R60, 9M114
+:Para
+Take-off time: 11:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+Comrade, a well equipped group of rebels has stopped the allied advance towards the airfield. You are required to eliminate the air defences and then dispose of the cowardly rebel ground forces.
+:EOF

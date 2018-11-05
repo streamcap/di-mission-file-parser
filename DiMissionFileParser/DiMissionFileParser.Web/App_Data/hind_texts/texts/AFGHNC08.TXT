@@ -1,0 +1,17 @@
+:Title
+Battlefield Support
+:Description
+Helicopters: 2
+:Para
+Targets: Air defences, Mujaheddin
+:Para
+Weapons: UPK23, rockets, 9M114
+:Para
+Take-off time: 19:50
+:Para
+Flight time: 9 mins
+:Para
+Weather: Overcast
+:Para
+Our courageous task force is engaged in battle with a group of vicious guerrillas. Comrade, you are required to provide covering fire for our brave troops and to deal with anti-aircraft fire without mercy.
+:EOF

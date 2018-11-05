@@ -1,0 +1,17 @@
+:Title
+Operational Training - Formation Flying
+:Description
+Helicopters: 4
+:Para
+Targets: Deploy troops at X
+:Para
+Weapons: None
+:Para
+Take-off time: 16:00
+:Para
+Flight time: 13 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, combat missions will require frequent formation flying and escort duties. Use this mission to practise these skills. Absolute confidence by you and the other crews will be required when you are at the front line. You are not cleared to release any weapons on this mission or approach any targets.
+:EOF

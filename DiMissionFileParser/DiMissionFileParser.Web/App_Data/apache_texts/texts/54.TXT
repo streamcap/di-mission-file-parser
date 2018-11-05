@@ -1,0 +1,17 @@
+:Title
+Allied Landing Support
+:Description
+Helicopters: 2
+:Para
+Targets: Observations posts, Artillery
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 07:35
+:Para
+Flight time: 16 mins
+:Para
+Weather: Overcast
+:Para
+The landings have come under heavy and sustained artillery fire from guns located in the Pentadaktylos foot hills. Your are required to knockout two forward observation posts and then attack the artillery.
+:EOF

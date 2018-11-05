@@ -1,0 +1,23 @@
+:Title
+Engage Enemy Tanks And Artillery
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, Artillery, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 09:20
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+The enemy has constructed extensive fortified defenses. The allies intend to breach these defenses in three phases. Apaches will spearhead the attack by destroying as many of the tanks and artillery pieces as possible. Secondly, MLRS will be used for mine and area clearance. Finally, engineering vehicles will breach the fortification. As this is a coordinated attack make sure you are on time. Amongst the fortifications are extensive air defenses so expect to come under heavy fire.
+:Outstanding
+The destruction of all enemy armor in your sector was an excellent start to a successful attack which achieved all of its objectives. Congratulations on an excellent result.
+:Success
+The destruction of most of the enemy armor in your sector was a good start for the attack which achieved all of its objectives. Allied casualties were slight.
+:Failure
+Failure to destroy the enemy armor has led to the attack being abandoned. The allies have suffered heavy casualties.
+:EOF

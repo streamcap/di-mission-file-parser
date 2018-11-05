@@ -1,0 +1,17 @@
+:Title
+Highway Patrol
+:Description
+Helicopters: 2
+:Para
+Targets: Armed trucks, APC's
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 10:00
+:Para
+Flight time: 27 mins
+:Para
+Weather: Clear
+:Para
+The government and rebel forces are both sending out patrols along the highway to stop civilians reaching the airport. The vehicles vary from BMP 1 APC's to open backed trucks armed with machine guns. To avoid civilian casualties visually identify each vehicle before it is attacked.
+:EOF

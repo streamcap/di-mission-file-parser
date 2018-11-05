@@ -1,0 +1,5 @@
+:Situation
+Contact has been made with a group of foreign workers at a remote oil field. There is a battle between government and rebel forces nearby. Some of the workers are attempting to escape and reach the main assembly area, the rest need evacuating. Apaches are required to escort the transport helicopters, suppress ground fire and to provide a diversion during the evacuation.
+:Failure
+Failure to evacuate the oil workers has enabled the government forces to defeat the rebels, breakout from the oil field and advance towards the main highway which is again threatened. Reconnaissance has indicated that the rebels are regrouping and there maybe further attacks. Fortunately, the workers at the oil field have not been found by the government forces. A further rescue attempt may be possible.
+

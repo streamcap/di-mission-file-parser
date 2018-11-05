@@ -1,0 +1,17 @@
+:Title
+Depopulation Bombing Raid
+:Description
+Helicopters:3
+:Para
+Targets:Enemy stronghold
+:Para
+Weapons:KMGU-2, Rockets, 9M114
+:Para
+Take-off time:20:30
+:Para
+Flight time:8 mins
+:Para
+Weather:Light Fog
+:Para
+Intelligence sources have identified a village being used as a base for guerrilla operations. Comrade, you must raze the village to the ground using bombs and rockets. A second wave of helicopters will dispense mines around the ruins.
+:EOF

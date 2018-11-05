@@ -1,0 +1,17 @@
+:Title
+Gun Boat Attack
+:Description
+Helicopters: 2
+:Para
+Targets: FPB 57 gunboats
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 05:45
+:Para
+Flight time: 15 mins
+:Para
+Weather: Clear
+:Para
+Two allied destroyers have been shelling enemy targets in Famagusta bay. They were attacked by Turkish F16's and gun boats simultaneously and were badly damaged. The gun boats are moving in to finish the job and must be stopped. Time is of essence so you must react quickly by sinking the gunboats.
+:EOF

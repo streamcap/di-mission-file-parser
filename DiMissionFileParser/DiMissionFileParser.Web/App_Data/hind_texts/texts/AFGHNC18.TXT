@@ -1,0 +1,17 @@
+:Title
+Special Forces Extraction
+:Description
+Helicopters: 2
+:Para
+Targets: Rescue at X
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 22:00
+:Para
+Flight time: 7 mins
+:Para
+Weather: Clear
+:Para
+Comrade, our courageous special forces have sabotaged a terrorist ammunition dump. Hind helicopters are required to evacuate the troops under the cover of darkness.
+:EOF

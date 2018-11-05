@@ -1,0 +1,17 @@
+:Title
+Hostage Rescue Attack
+:Description
+Helicopters: 4
+:Para
+Targets: APC's, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 11:35
+:Para
+Flight time: 16 mins
+:Para
+Weather: Overcast
+:Para
+The UN hostages are guarded with strong air defenses and armored vehicles. The Apaches will attack these defenses as a prelude to the main rescue attempt. Marines have been tasked with securing the area upon completion of your mission. Care must be taken not to hit any of the buildings where UN troops are held.
+:EOF

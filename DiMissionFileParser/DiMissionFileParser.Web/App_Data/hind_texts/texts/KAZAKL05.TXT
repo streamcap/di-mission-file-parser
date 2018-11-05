@@ -1,0 +1,7 @@
+:Situation
+Comrade, our brave ground forces will surround Akmola in order to contain the brutal rebels inside the city. The operation will begin with attacks from the air base on two fronts. Rebel air activity is still high.
+:Stalemate
+The rebel forces have conceded little in the heavy fighting. Comrade, you are expected to contribute more effectively to this well-planned operation.
+:Failure
+Comrade, the pathetic air support from the Hind pilots has allowed the rebels to withstand the allied advance. They have strengthened their air defences and positioned artillery within range of the allied air base.
+:EOF

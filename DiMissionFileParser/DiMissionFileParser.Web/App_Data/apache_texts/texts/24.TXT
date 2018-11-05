@@ -1,0 +1,17 @@
+:Title
+APC Attack
+:Description
+Helicopters: 2
+:Para
+Targets: APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 20:15
+:Para
+Flight time: 17 mins
+:Para
+Weather: Overcast
+:Para
+Behind the advancing front line of battle tanks is a large formation of support APC's carrying infantry. Other Apaches have been tasked with destroying the tanks and battlefield air defenses while you and your wingman engage the APC's.
+:EOF

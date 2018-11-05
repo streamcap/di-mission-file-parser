@@ -1,0 +1,23 @@
+:Title
+Attack the Troop Concentrations
+:Description
+Helicopters: 3
+:Para
+Targets: Armour, air defences
+:Para
+Weapons: FAE500, rockets, 9M114
+:Para
+Take-off time: 13:05
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+Our aggressive enemy has strengthened troop concentrations near the front-line for a massive counter-attack. Comrade, you must attack these vulnerable troops with your devastating fuel air bombs and then destroy any remaining equipment. Be prepared for considerable enemy air activity.
+:Outstanding
+Comrade, the total elimination of this threat has relieved the pressure on this sector of the front-line. High command can now transfer some of our brave troops to other duties.
+:Success
+Comrade, your effectiveness has relieved the pressure on this sector of the front-line.  Well done.
+:Failure
+Comrade, your failure has allowed the aggressive enemy forces to launch a major attack in this sector of the front-line. You are in disgrace.
+:EOF

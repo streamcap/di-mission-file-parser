@@ -1,0 +1,17 @@
+:Title
+Destroy an Enemy Supply Dump
+:Description
+Helicopters: 2
+:Para
+Targets: Forward base
+:Para
+Weapons: FAB500,S8, 9M114
+:Para
+Take-off time: 01:00
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+Comrade, the allies have identified an enemy munitions store. You are required to eliminate nearby defences and then bomb the bunker.
+:EOF

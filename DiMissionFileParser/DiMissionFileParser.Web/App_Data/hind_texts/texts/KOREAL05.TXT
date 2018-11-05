@@ -1,0 +1,7 @@
+:Situation
+Enemy defences on the opposite bank of the Han-Gang river must be destroyed before our landing craft are launched. Once our brave troops are ashore the bridgehead must be secured as quickly as possible. Comrades, effective air support is vital during this high risk operation.
+:Stalemate
+The success of the allied invasion has been limited due to the poorly executed air strikes from you and your comrades. If our superb ground forces are to reach their objective, your battlefield support must improve considerably.
+:Failure
+The pathetic air support from you and your comrades has prevented the glorious invasion force from reaching their objectives. Fortunately, most of the troops were rescued by our brave navy and so another attempt can be made. Your performance is being closely monitored.
+:EOF

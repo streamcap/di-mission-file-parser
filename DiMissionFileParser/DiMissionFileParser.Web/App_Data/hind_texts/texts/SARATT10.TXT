@@ -1,0 +1,17 @@
+:Title
+Weapons Training - FAB250 250kg Bombs
+:Description
+Helicopters: 1
+:Para
+Targets: Target at X
+:Para
+Weapons: FAB250 bombs
+:Para
+Take-off time: 15:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Overcast
+:Para
+This useful general purpose bomb can be used on a wide range of small targets. Comrade, one bomb is fitted to each pylon giving a total of four. They are released in pairs. Use these bombs to destroy the pallets on the practice range at waypoint X, making sure you are above the minimum release height of 150m with a speed of 300kph.
+:EOF

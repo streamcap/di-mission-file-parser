@@ -1,0 +1,23 @@
+:Title
+Reconnaissance of City Defences 
+:Description
+Helicopters: 2
+:Para
+Targets: Armour, air defences
+:Para
+Weapons: Rockets, R60, 9M114
+:Para
+Take-off time: 07:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Overcast
+:Para
+In preparation for a major attack, our courageous allies need accurate information concerning the rebels' defensive positions. Comrade, extensive air defences are protecting the city, so we expect this to be a tough reconnaissance assignment. 
+:Outstanding
+Comrade, your comprehensive reconnaissance and air defence suppression met our highest expectations.  Our brave ground forces now possess the information needed to launch a successful operation.
+:Success
+Comrade, your reconnaissance and air defence suppression has helped our courageous allies in the preparation of their attack.
+:Failure
+Your failure to secure the information required has resulted in the postponement of a vital operation. Comrade, your incompetence has been noted.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Enemy Positions Reconnaissance
+:Description
+Helicopters: 3
+:Para
+Targets: Reconnaissance at X and Y
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 18:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+Reconnaissance data is required for the identification of enemy defensive positions. Comrade, once you have completed the reconnaissance you are instructed to attack any rebel armour in the area.
+:EOF

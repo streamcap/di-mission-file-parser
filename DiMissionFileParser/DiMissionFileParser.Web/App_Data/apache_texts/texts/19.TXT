@@ -1,0 +1,17 @@
+:Title
+Evacuation Air Defense Suppression
+:Description
+Helicopters: 2
+:Para
+Targets: Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 17:30
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+Government air defenses within range of the assembly area must be eliminated before the evacuation can begin. Locate the AAA and SAM batteries and destroy them.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Allied Pilot Rescue
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 20:30
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+Several allied pilots have ejected over enemy territory. You must escort the search and rescue helicopter to each of the sites dealing with any en-route air defense threats. It is suspected that one or more of the beacons has been set up as an ambush by the enemy so expect to meet some opposition.
+:EOF

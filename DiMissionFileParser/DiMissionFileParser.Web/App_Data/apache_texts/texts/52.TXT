@@ -1,0 +1,17 @@
+:Title
+SAS Rescue
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft, Air defense
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 20:30
+:Para
+Flight time: 14 mins 
+:Para
+Weather: Clear
+:Para
+A squad of SAS troops on a secret reconnaissance mission have been discovered by the Turks and are on the run. If captured it could compromise a major operation so they must be rescued. Escort the rescue helicopter into enemy territory, provide covering fire during the rescue and then escort them home.
+:EOF

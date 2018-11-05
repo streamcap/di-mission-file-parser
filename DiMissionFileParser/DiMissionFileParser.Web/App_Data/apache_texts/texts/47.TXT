@@ -1,0 +1,17 @@
+:Title
+Airfield Pre-emptive Strike
+:Description
+Helicopters: 4
+:Para
+Targets: Helicopters, trucks etc.
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 17:25
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+There have been several violations of the exclusion zone by Turkish helicopters based at Salamis. As this is only a short distance from the Apache airbase surprise attacks are a major concern. A pre-emptive strike is planned with the Apaches concentrating on the ground targets while F14's and F18's engage enemy fighters.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Investigate Enemy APC Patrols
+:Description
+Helicopters: 2
+:Para
+Targets: APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 15:40
+:Para
+Flight time: 6 mins
+:Para
+Weather: Clear
+:Para
+Enemy forces have made several successful raids into allied territory. They have crossed the border in APC's and taken several Greek soldiers for interrogation. Soldiers on sentry duty at Dhekelia have noticed unusual APC activity just across the border. You are being scrambled to investigate the APC maneuvers and to stop any similar raid. 
+:Outstanding
+Your prompt response to the APC activity has prevented a border incursion. Several Turkish troops have been taken prisoner with no allied casualties reported.
+:Success
+The destruction of the majority of the enemy APC's has forced them to abandon the raid and retreat. Only minor allied casualties have been reported.
+:Failure
+Failure to stop the enemy APC raid has resulted in allied casualties and several of the allied troops being taken prisoner.
+:EOF

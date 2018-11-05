@@ -1,0 +1,23 @@
+:Title
+Locate And Destroy Enemy APC Patrols
+:Description
+Helicopters: 2
+:Para
+Targets: APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 17:50
+:Para
+Flight time: 14 mins
+:Para
+Weather: Overcast
+:Para
+Several enemy APC's have been spotted in an area just behind the allied front line near Munsan. Locate and destroy them before they have chance to pass back vital intelligence. Allied armored vehicles are in the vicinity so identify each target before engaging. 
+:Outstanding
+Your total destruction of the enemy patrol has prevented vital intelligence on allied troop positions and strengths from reaching the enemy. Well done.
+:Success
+Your partial destruction of the enemy patrol has resulted in intelligence information on allied troop strengths and positions reaching the enemy.
+:Failure
+The escape of the enemy patrol has allowed comprehensive intelligence information on allied troop strengths and positions to reach the enemy. The weakness of the allied positions in this area means an attack is imminent.
+:EOF

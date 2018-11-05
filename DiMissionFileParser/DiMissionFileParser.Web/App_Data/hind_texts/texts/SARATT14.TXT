@@ -1,0 +1,17 @@
+:Title
+Weapons Training - KMGU-2 mine dispenser
+:Description
+Helicopters: 1
+:Para
+Targets: Lay mines at X,Y and Z
+:Para
+Weapons: KMGU-2
+:Para
+Take-off time: 14:00
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+This is a powerful weapon that contains 144 anti-personnel mines in four compartments. Comrade, your helicopter is loaded with two of these weapons on the inner pylons. In the practice area release a compartment at each of the waypoints X, Y, and Z. For an optimal release pattern your altitude should be 50 to 150 metres with a minimum speed of  200 kph.
+:EOF

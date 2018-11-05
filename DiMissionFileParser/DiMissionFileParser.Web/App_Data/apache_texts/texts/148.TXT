@@ -1,0 +1,23 @@
+:Title
+APACHE - Battlefield Support
+:Description
+Helicopters:
+:Para
+Targets:
+:Para
+Weapons:
+:Para
+Take-off time:
+:Para
+Flight time:
+:Para
+Weather:
+:Para
+An allied armoured column has been ambushed by enemy forces. Battlefield support is urgently required. Enemy attack helicopters in the area must be destroyed before continuing with the destruction of the enemy armour.
+:Outstanding
+Your fast and effective response to this potentially disastrous situation has saved many lives. The destruction of the enemy helicopters was a magnificent achievement.
+:Success
+Your response to this potentially disastrous situation has saved many lives. Our forces have suffered only moderate casualties.
+:Failure
+Our forces have taken a terrible punishment due to your incompetence. Many lives have been lost.
+:EOF

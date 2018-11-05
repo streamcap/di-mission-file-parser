@@ -1,0 +1,23 @@
+:Title
+Airfield Radar & Air Defense Suppression
+:Description
+Helicopters: 6
+:Para
+Targets: APC's, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 04:50
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+The allies intend to take control of Al 'Adan airfield for use as a military base. You will be part of a preliminary force to knock out the airfield's radar and air defenses prior to the arrival of the main invasion force. This attack has been widely predicted so expect enemy air defenses to be on high alert.
+:Outstanding
+The successful preliminary attack has enabled the allies to secure Al 'Adan airport with minimal opposition and casualties. Your commander is pleased with your performance.
+:Success
+The preliminary attack destroyed most of the airfield's radar installations and air defenses. During the main assault only a small number of casualties were incurred.
+:Failure
+The allies have abandoned the attack on Al 'Adan airport due to the strong air defenses making it impossible to deploy allied troops. Casualties have been reported and these can be directly attributed to the failure of the preliminary attack by the Apaches.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Allied Armoured Column Support
+:Description
+Helicopters: 3
+:Para
+Targets: Buildings at X and Y
+:Para
+Weapons: FAB250, 9M114
+:Para
+Take-off time: 10:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Aggressive Mujaheddin terrorists are preparing to ambush allied vehicles. We expect them to be hiding in the few buildings that remain along the route. Comrade, you are required to fly ahead of the armoured offensive, bomb these buildings and eliminate any groups of miserable terrorists encountered.
+:EOF

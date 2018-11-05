@@ -1,0 +1,17 @@
+:Title
+Defensive Position Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Troops, armour at X and Y
+:Para
+Weapons: S5,S8, 9M114
+:Para
+Take-off time: 16:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+An enemy defensive position has been identified en route to Incheon. Comrades, you will escort the Hip helicopters to deploy our special forces and provide battlefield support when appropriate.
+:EOF

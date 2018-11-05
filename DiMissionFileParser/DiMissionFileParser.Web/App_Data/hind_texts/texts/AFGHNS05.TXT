@@ -1,0 +1,23 @@
+:Title
+Special Forces Rescue
+:Description
+Helicopters: 2
+:Para
+Targets: Mujaheddin, Rescue troops at X
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 20:45
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+The allies have set up a strategic outpost in order to restrict the movement of the Mujaheddin terrorists. However, there is a high risk of a night attack by the vicious guerrillas that are roaming the area. Comrade, you are required to airlift the troops out of the area at dusk.
+:Outstanding
+Comrade, your heroic intervention in the fight between our courageous troops and the murderous guerrillas has saved many lives.  Our brave allied forces are grateful.
+:Success
+Comrade, your quick response to the brutal guerrilla attack has forced them to retreat.  You have saved many lives.
+:Failure
+Your failure to deal effectively with the guerrilla attack and your inability to rescue our brave troops has resulted in a massacre. Comrade, your incompetence is a major concern of your superiors.
+:EOF

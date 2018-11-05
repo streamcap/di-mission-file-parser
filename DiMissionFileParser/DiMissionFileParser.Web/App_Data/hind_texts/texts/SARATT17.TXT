@@ -1,0 +1,17 @@
+:Title
+Operational Training - Troop Evacuation
+:Description
+Helicopters: 1
+:Para
+Targets: Evacuate troops at X
+:Para
+Weapons: None
+:Para
+Take-off time: 09:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Comrade, you are required to evacuate eight fully equipped courageous special forces from a mock battlefield at waypoint X. Once you have landed at the pickup point, open the cargo doors, wait for the flight engineer to confirm that everyone is aboard, then close the doors prior to take-off and return to base.
+:EOF

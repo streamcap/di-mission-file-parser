@@ -1,0 +1,23 @@
+:Title
+Defence of an Allied Base
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 10:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+The fanatical enemy airforce have been launching cowardly hit and run attacks on our main air base. Our victorious allies are responding with aircraft and helicopter patrols. Comrade, be ready for low level attacks as there is no guarantee that our early warning radar will detect them.
+:Outstanding
+Comrade, your courageous destruction of the incoming fanatical enemy aircraft has been a major boost to our forces. You executed your mission well.
+:Success
+Comrade, your destruction of several incoming enemy aircraft has limited the effectiveness of the raids. Your efforts have boosted morale.
+:Failure
+Comrade, your ineffective response to the cowardly enemy air attacks has resulted in many major casualties at the air base. You are despised by your courageous allies.
+:EOF

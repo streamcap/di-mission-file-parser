@@ -1,0 +1,17 @@
+:Title
+Destroy the Enemy Defensive Positions
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's, SAM's, AAA
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 20:00
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+The defiant enemy has stopped our allied advance. Strong defensive positions and highly mobile armour are inflicting heavy allied casualties. Comrade, you are required to attack these defences and armoured vehicles so that our courageous forces may proceed.
+:EOF

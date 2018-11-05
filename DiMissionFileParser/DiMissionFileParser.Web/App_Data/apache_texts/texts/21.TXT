@@ -1,0 +1,17 @@
+:Title
+Armored Spearhead Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Tanks, APC's, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 18:20
+:Para
+Flight time: 20 mins
+:Para
+Weather: Clear
+:Para
+Advancing enemy armor will reach the capital Seoul in hours unless an attack by Apaches is launched immediately. Avoid the mobile air defenses and concentrate on destroying the advancing tanks.
+:EOF

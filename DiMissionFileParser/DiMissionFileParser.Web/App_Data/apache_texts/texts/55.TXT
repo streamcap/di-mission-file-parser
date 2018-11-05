@@ -1,0 +1,17 @@
+:Title
+Airborne Troop Support
+:Description
+Helicopters: 2
+:Para
+Targets: Tanks, APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 07:35
+:Para
+Flight time: 8 mins
+:Para
+Weather: Overcast
+:Para
+Airborne forces have encountered resistance from armored vehicles and tanks while securing a bridge inland. Apaches must engage the armor, eliminate any air defense threats, and then provide covering fire while support transport helicopters bring in supplies, reinforcements and evacuate the allied casualties.
+:EOF

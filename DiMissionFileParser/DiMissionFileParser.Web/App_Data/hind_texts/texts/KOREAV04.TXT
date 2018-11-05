@@ -1,0 +1,23 @@
+:Title
+Airfield Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Aircraft at X
+:Para
+Weapons: S5, R60, 9M114
+:Para
+Take-off time: 05:50
+:Para
+Flight time: 9 mins
+:Para
+Weather: Light fog
+:Para
+Vicious airborne attacks are causing major disruption to a number of allied operations. Comrade, you will assist in a devastating co-ordinated attack against the air base, with several other helicopters and aircraft. Concentrate on destroying aircraft at the airfield.  Your wingmen and other aircraft will disable the air defences. Enemy combat air patrols are known to be in the area so proceed with caution.
+:Outstanding
+Your outstanding contribution to the raid has crippled the complacent enemy's air defences. Comrade, our air superiority allows further sorties in support of our liberating forces.
+:Success
+Your contribution to the raid has dealt a severe blow to the enemy's air force. Comrade, further raids in support of our glorious forces should result in air superiority.
+:Failure
+The vindictive enemy is close to achieving air superiority as a result of your pitiful efforts. Your days as a Hind pilot may be numbered.
+:EOF

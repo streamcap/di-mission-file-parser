@@ -1,0 +1,17 @@
+:Title
+Armored Counter Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Tanks, APC's
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 08:15
+:Para
+Flight time: 17 mins
+:Para
+Weather: Clear
+:Para
+The marines securing Al 'Adan airport are being attacked by an armored column that has surrounded the airport. Intelligence had not predicted such an attack. The reserve force of Apaches is being scrambled and will engage this armor as quickly as possible.
+:EOF

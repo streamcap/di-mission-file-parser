@@ -1,0 +1,17 @@
+:Title
+Choke Point Saturation Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Fortified buildings, APC's
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 05:45
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+Turkish forces are using an old fortified building at a choke point to stall the allied advance. To get Allied forces moving again the allies plan a major attack with the Apaches saturating the area with rockets just before the main advance.
+:EOF

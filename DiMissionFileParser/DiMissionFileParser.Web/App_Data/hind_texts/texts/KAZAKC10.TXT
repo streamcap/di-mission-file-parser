@@ -1,0 +1,17 @@
+:Title
+Air Intercept
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 07:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+Allied radar has detected hostile aircraft flying towards the air base. Comrade, engage all low flying aircraft while allied fighters engage enemy aircraft at higher altitudes.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Landing Zone Defence
+:Description
+Helicopters: 4
+:Para
+Targets: Air defences
+:Para
+Weapons: UPK23, R60, 9M114
+:Para
+Take-off time: 16:00
+:Para
+Flight time: 13 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, you are instructed to clear an approach path to the landing zone and to provide cover while the Hip helicopters unload their supplies. On the return journey you will attack enemy positions near our front line.
+:EOF

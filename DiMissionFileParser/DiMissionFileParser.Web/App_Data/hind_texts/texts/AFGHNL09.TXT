@@ -1,0 +1,7 @@
+:Situation
+The beleaguered town of Barikot is now within sight. Our courageous special forces will be flown into Barikot to spearhead a breakout and to catch the desperate guerrillas in a pincer action. Comrade, our heroic troops will be supported with numerous air attacks on the terrorist positions around the garrison.
+:Stalemate
+Comrade, the airlift into Barikot has proven to be inadequate and the elimination of the guerrilla defences is incomplete. More troops and equipment are needed in the town and the vicious terrorists must be eliminated.
+:Failure
+Comrade, the breakout from Barikot has failed, due largely to the poor air support from the Hinds. The ruthless guerrillas have tightened their stranglehold. Courageous allied troops have regrouped after suffering heavy casualties
+:EOF

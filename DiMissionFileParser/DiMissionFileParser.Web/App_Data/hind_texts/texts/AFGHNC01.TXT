@@ -1,0 +1,17 @@
+:Title
+Support Allied Counter-Attacks
+:Description
+Helicopters:2
+:Para
+Targets:Heavy Machine Gun Sites
+:Para
+Weapons:FAB250, rockets, 9M114
+:Para
+Take-off time:16:00
+:Para
+Flight time:5 mins
+:Para
+Weather:Clear
+:Para
+The allies are launching two counter-attacks to stop the warmongering Mujaheddin. Comrade, you are instructed to attack and destroy a number of heavy machine gun positions before our glorious troops can advance.
+:EOF

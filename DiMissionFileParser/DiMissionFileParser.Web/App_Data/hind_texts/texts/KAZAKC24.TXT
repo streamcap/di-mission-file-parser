@@ -1,0 +1,17 @@
+:Title
+Main Supply Dump Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Supply dump, Trucks, Tanks, APC's, SAM's, AAA
+:Para
+Weapons: FAB250,S8,9M114
+:Para
+Take-off time: 19:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Clear
+:Para
+The destruction of the enemy's main supply dump is now the highest priority. Comrade, start by bombing your primary target and then obliterate other targets in the area.
+:EOF

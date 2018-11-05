@@ -1,0 +1,7 @@
+:Situation
+The airfield has been captured but our aircraft are being subjected to rebel AAA and SAM activity. Enemy artillery units are also shelling the area.  The fanatical rebel airforce is highly active so be prepared for air raids.
+:Stalemate
+Comrade, the cowardly rebel attacks on the airfield are continuing. Further air attacks are needed on enemy artillery positions.
+:Failure
+Your failure to protect the airfield has allowed the rebels to recapture the base. As a result of your incompetence, the allies have lost a considerable number of aircraft, helicopters, military equipment and supplies.  
+:EOF

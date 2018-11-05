@@ -1,0 +1,23 @@
+:Title
+Escort the Armoured Column
+:Description
+Helicopters: 3
+:Para
+Targets: Mujaheddin
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 16:30
+:Para
+Flight time: 13 mins
+:Para
+Weather: Overcast
+:Para
+An allied armoured column is about to cross terrain ideal for ambushes. Comrade, you are required to scout ahead and dispose of any ruthless guerrillas and provide battlefield support if the column comes under attack.
+:Outstanding
+Comrade, your heroic air support has defeated any attempts to ambush the armoured column.
+:Success
+Comrade, your competent performance has minimised allied casualties.
+:Failure
+Comrade, your failure to support the allied column has resulted in a massacre. Your incompetence has been noted.
+:EOF

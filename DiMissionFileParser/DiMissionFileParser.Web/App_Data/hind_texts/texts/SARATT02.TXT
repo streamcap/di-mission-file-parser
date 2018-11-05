@@ -1,0 +1,17 @@
+:Title
+Navigation and Reconnaissance Exercise
+:Description
+Helicopters: 1
+:Para
+Targets: Reconnaissance at X and Y
+:Para
+Weapons: None
+:Para
+Take-off time: 20:30
+:Para
+Flight time: 13 mins
+:Para
+Weather: Clear
+:Para
+This is an exercise to familiarise you with the Hind's comprehensive navigation systems and reconnaissance procedure. Comrade, pay particular attention to the scrolling map with the superimposed flight plan, the use of the HUD waypoint bearing and height steering cue and the operation of the Horizontal Situation Indicator. You are required to transmit reconnaissance data when passing over waypoints X and Y.
+:EOF

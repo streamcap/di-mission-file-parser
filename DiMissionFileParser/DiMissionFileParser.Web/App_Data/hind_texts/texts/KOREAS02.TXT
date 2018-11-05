@@ -1,0 +1,23 @@
+:Title
+Early Warning Radar Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Early warning radar, Bunker
+:Para
+Weapons: FAB500, Rockets, 9M114
+:Para
+Take-off time: 7:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+This attack by our brilliant armed forces is designed to blind the air defences of our dumb and complacent enemy. Comrade, you must fly low and destroy all of the major systems at this vulnerable radar site. Attack the main radome with your devastating bombs and then attack secondary targets with your rockets.
+:Outstanding
+Comrade, the outstanding success of this surprise attack has left our complacent enemy blind to further air attacks.
+:Success
+Comrade, your destruction of the radar site has left our dumb enemy with limited radar coverage.
+:Failure
+Your failure to destroy the radar has resulted in several of our aircraft being destroyed. Comrade, you are failing in your responsibilities to the glorious motherland.
+:EOF

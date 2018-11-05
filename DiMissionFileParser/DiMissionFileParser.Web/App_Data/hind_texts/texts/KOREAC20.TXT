@@ -1,0 +1,17 @@
+:Title
+Supply Ship Air Cover
+:Description
+Helicopters: 2
+:Para
+Targets: Escort shipping
+:Para
+Weapons: S8, 9M114
+:Para
+Take-off time: 06:30
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+A convoy of supply ships is taking food back to the motherland under the protection of our navy. Comrade, you are required to provide aerial cover against air and sea-borne attacks. Several enemy warships have been sighted moving into the area.
+:EOF

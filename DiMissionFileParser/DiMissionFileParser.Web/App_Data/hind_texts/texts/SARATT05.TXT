@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Turret Gun - Ground Attack
+:Description
+Helicopters: 1
+:Para
+Targets: Vehicles at X
+:Para
+Weapons: Turret gun
+:Para
+Take-off time: 16:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, your Hind is armed with 1470 rounds of armour piercing bullets. Comrade, the gun has a high firing rate, so use it sparingly against a range of lightly armed targets. Practise both manual aiming and using the silicon Weapon Systems Operator. Restrict the firing of your weapons to the practice range at waypoint X.
+:EOF

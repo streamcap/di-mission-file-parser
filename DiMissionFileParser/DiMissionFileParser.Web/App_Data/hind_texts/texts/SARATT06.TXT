@@ -1,0 +1,17 @@
+:Title
+Weapons Training - Turret Gun - Air Combat
+:Description
+Helicopters: 1
+:Para
+Targets: Aircraft
+:Para
+Weapons: Turret gun
+:Para
+Take-off time: 10:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Your Hind is armed with only 1470 rounds for this high speed machine-gun so fire in very short bursts. Comrade, practise using this weapon with and without the silicon Weapon Systems Operator against any air targets around waypoint X.
+:EOF

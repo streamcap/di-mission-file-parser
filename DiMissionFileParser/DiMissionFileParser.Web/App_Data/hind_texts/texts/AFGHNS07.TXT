@@ -1,0 +1,23 @@
+:Title
+Attack the Guerrillas
+:Description
+Helicopters: 2
+:Para
+Targets: Mujaheddin
+:Para
+Weapons: FAE500, rockets, 9M114
+:Para
+Take-off time: 20:15
+:Para
+Flight time: 18 mins
+:Para
+Weather: Clear
+:Para
+A group of warmongering  Mujaheddin guerrillas has been located en-route to an allied outpost. Comrade, you are required to intercept the attackers using your devastating fuel-air bombs and follow up with your powerful rockets on any remaining targets.
+:Outstanding
+Comrade, your destruction of the ruthless enemy force has prevented casualties at the allied outpost. 
+:Success
+Comrade, your interception of the warmongering Mujaheddin has seriously weakened their threat to the allied outpost.
+:Failure
+Your failure has resulted in major casualties at the allied outpost. Comrade, your superiors demand better performance from you.
+:EOF

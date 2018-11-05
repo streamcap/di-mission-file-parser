@@ -1,0 +1,7 @@
+:Situation
+The objectives of the campaign have been achieved.  Comrade, you are required to assist in the tactical withdrawal of our troops back to the motherland. Effective battlefield support is needed to avoid casualties.
+:Stalemate
+Poor air support from the Hind crews has left our glorious forces pinned down. Comrade, maximum effort from all Hind pilots should bring the campaign to a successful conclusion.
+:Failure
+Poor air support from the Hind crews has allowed our vengeful enemy to attack and destroy vital food convoys. Further relief missions will have to take place. Comrade, your provision of air support is even more important for this campaign to be brought to a successful conclusion.
+:EOF

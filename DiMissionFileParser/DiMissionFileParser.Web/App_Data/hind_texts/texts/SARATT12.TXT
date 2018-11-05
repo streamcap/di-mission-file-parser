@@ -1,0 +1,17 @@
+:Title
+Weapons Training - 250kg Fragmentation Bombs
+:Description
+Helicopters: 1
+:Para
+Targets: Target at X
+:Para
+Weapons: OFAB250 bombs
+:Para
+Take-off time: 12:00
+:Para
+Flight time: 12 mins
+:Para
+Weather: Clear
+:Para
+This bomb bursts into a cloud of small fragments prior to hitting the ground. It is used against personnel and lightly armoured vehicles. Comrade, your Hind is loaded with four of these devastating weapons, one on each pylon, and they are released in pairs. Attack the vehicles on the practice range at waypoint X. To avoid damaging your helicopter stay above 150m with a minimum speed of 300kph.
+:EOF

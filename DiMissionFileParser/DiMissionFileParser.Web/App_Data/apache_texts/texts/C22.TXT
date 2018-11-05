@@ -1,0 +1,5 @@
+:Situation
+The advance has been stopped. It now needs to be weakened before being pushed back to the border. The Apaches' priority is to support the redeployment of allied troops to defensive positions and to provide battlefield support when contact is made with the enemy.
+:Failure
+The North Korean forces have again broken through the allied defensive positions due to the failure of the Apache helicopter forces. They are moving quickly towards Seoul, and you have one last chance of doing your job properly and stopping them reaching their objective.
+:EOF

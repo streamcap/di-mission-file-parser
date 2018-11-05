@@ -38,7 +38,7 @@ namespace DiMissionfileParser.Parser.Functions
                 {
                     var fileName = $"C{i}.TXT";
                     var file = situations.Single(f => f.FileName == fileName);
-                    campaign.InsertSituation(file);
+                    campaign.Situations.Add(file);
                     missionTexts.Remove(file);
                 }
             }

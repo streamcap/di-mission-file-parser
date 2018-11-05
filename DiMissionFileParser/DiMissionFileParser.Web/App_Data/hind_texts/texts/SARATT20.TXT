@@ -1,0 +1,17 @@
+:Title
+Operational Training - Low Visibility Flying
+:Description
+Helicopters: 1
+:Para
+Targets: Targets at X
+:Para
+Weapons: S8,9M114
+:Para
+Take-off time: 16:00
+:Para
+Flight time: 9 mins
+:Para
+Weather: Light fog
+:Para
+Our brave and magnificent Hind crews are expected to fly regardless of the weather conditions. Use the present foggy conditions to practise your instrument flying skills. 
+:EOF

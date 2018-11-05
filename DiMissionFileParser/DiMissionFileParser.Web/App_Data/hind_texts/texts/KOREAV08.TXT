@@ -1,0 +1,23 @@
+:Title
+Battlefield Air Defence
+:Description
+Helicopters: 3
+:Para
+Targets: Apache helicopters, Tanks, APC's
+:Para
+Weapons: S5, R60, 9M114
+:Para
+Take-off time: 11:40
+:Para
+Flight time: 13 mins
+:Para
+Weather: Overcast
+:Para
+Comrade, our glorious forces are about to ambush a careless enemy armoured column. You are required to support our brave troops with your overwhelming fire power. Expect the ruthless enemy to send Apache helicopters to defend their ground forces.
+:Outstanding
+Comrade, the combined destruction of the enemy armour and their Apache helicopters has been a major blow to the enemy forces. Your efforts on this mission were exemplary.
+:Success
+The destruction of the enemy armour has been a major blow to their careless forces.  Your superiors are pleased with your efforts.
+:Failure
+The lack of air support during the ambush has enabled the enemy forces to escape. Furthermore Comrade, the allies have suffered terrible losses in the process due to your incompetence.
+:EOF

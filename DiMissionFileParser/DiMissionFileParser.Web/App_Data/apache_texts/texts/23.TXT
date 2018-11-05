@@ -1,0 +1,17 @@
+:Title
+Tank Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Tanks
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 20:15
+:Para
+Flight time: 15 mins
+:Para
+Weather: Overcast
+:Para
+Major tank concentrations are approaching allied defensive positions. You and your wingman are tasked with destroying the tanks while other Apaches take on the mobile air defenses.
+:EOF

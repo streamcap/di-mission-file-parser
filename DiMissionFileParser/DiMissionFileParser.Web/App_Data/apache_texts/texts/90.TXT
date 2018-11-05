@@ -1,0 +1,23 @@
+:Title
+Stop the Enemy Gunboats
+:Description
+Helicopters: 2
+:Para
+Targets: Osa II gunboats
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 07:05
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+A squadron of eight gunboats is travelling at high speed towards the allied task force. You must attack and destroy them before they are within missile firing range of the allied ships. The gunboats are armed with AAA and SAM's so expect them to return fire.
+:Outstanding
+All gunboats were destroyed by the Apache attack before they reached the task force. The enemy is now incapable of making further attacks of this nature. Your excellent performance has been noticed.
+:Success
+The gunboats were either destroyed or repelled before they were any danger to the task-force. However, further attacks are still possible.
+:Failure
+Despite your poor performance, the task force managed to sink several of the gunboats and shoot down most of the missiles with protection weapons. Unfortunately, the frigate USN Oliver Hazard Perry was hit and badly damaged.
+:EOF

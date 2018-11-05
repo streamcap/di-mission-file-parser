@@ -1,0 +1,23 @@
+:Title
+Attack the Trucks in a Supply Convoy
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft, Supply convoy
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 23:20
+:Para
+Flight time: 22 mins
+:Para
+Weather: Clear
+:Para
+A large military supply convoy has been detected on the Ta'izz to Al 'Adan road. The enemy were hoping to use the cover of darkness to re-supply and reinforce their forces in the Al 'Adan region. The convoy is protected with strong mobile air defenses consisting of: ZSU-23-4 AAA, SA-6 radar guided and SA-9 infra-red SAM's and several MIL-24 attack helicopters. Deal with any air threats first, then knock out the vehicles in the battle area.
+:Outstanding
+This has been a very successful operation with major damage inflicted upon the enemy supply network. Enemy forces in the Al 'Adan region are being starved of vital resources. An excellent result.
+:Success
+Partial destruction of the supply convoy has stopped most supplies getting through. Enemy forces in the Al 'Adan region are suffering the consequences.
+:Failure
+The poor performance by the Apache helicopters has boosted the enemy's morale and has enabled them to deliver vital supplies to their troops in the Al 'Adan region.
+:EOF

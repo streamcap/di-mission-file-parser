@@ -1,0 +1,17 @@
+:Title
+Halt the Counter-Attack
+:Description
+Helicopters: 4
+:Para
+Targets: Troops, armour at X
+:Para
+Weapons: UPK23,S8, 9M114
+:Para
+Take-off time: 12:00
+:Para
+Flight time: 10 mins
+:Para
+Weather: Overcast
+:Para
+Our courageous troops have reached the southern shore of the Han-Gang river and established defensive positions up to 200 metres inland. The enemy have counter-attacked with tanks, APC's and troops. Air support from our skilled Hind pilots is urgently needed.
+:EOF

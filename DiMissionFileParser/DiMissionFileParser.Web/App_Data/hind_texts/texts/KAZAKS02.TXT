@@ -1,0 +1,23 @@
+:Title
+Troop Evacuation
+:Description
+Helicopters: 2
+:Para
+Targets: Evacuate troops at X
+:Para
+Weapons: S8, R60, 9M114
+:Para
+Take-off time: 18:00
+:Para
+Flight time: 15 mins
+:Para
+Weather: Overcast
+:Para
+A squad of our brave special forces on a sabotage mission have been located by a group of cruel rebels. Comrade, our courageous troops have retreated but they are short of ammunition and need rescuing urgently.
+:Outstanding
+Well done comrade.  Your heroic battlefield support and courageous rescue has minimised casualties amongst our brave special forces. The team has personally thanked you.
+:Success
+Comrade, your prompt and courageous rescue has been well appreciated by the special forces.  Well done.
+:Failure
+Comrade, your failure to rescue our brave forces has left them in the hands of a merciless enemy.  Your superiors have noted your incompetence.
+:EOF

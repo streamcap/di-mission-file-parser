@@ -1,0 +1,23 @@
+:Title
+Attack the Enemy Fleet
+:Description
+Helicopters: 3
+:Para
+Targets: Helicopters, ships
+:Para
+Weapons: S8,9M114
+:Para
+Take-off time: 06:20
+:Para
+Flight time: 15 mins
+:Para
+Weather: Thick fog
+:Para
+An enemy task force of several frigates has attacked allied ships in Haeju harbour. Enemy helicopters have been identified on our radar flying towards the task force. You have no time to lose, comrade. You are expected to dispose of the incoming threat and then annihilate the task force.
+:Outstanding
+Justice has been done with the total destruction of the barbaric enemy task force and its accompanying puny Apache helicopters. Comrade, the whole nation is rejoicing at your success.
+:Success
+The successful attack on the enemy's despicable task force is a credit to your squadron. This major achievement has been broadcast to the nation.
+:Failure
+Your failure to dispose of the enemy ships is deplorable. Such incompetence will not be tolerated. You will attend an intensive course of training.
+:EOF

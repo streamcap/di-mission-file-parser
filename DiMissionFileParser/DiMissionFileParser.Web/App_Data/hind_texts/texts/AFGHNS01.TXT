@@ -1,0 +1,23 @@
+:Title
+Bombing Raid
+:Description
+Helicopters: 3
+:Para
+Targets: Village buildings
+:Para
+Weapons: FAB500, 9M114
+:Para
+Take-off time: 10:50
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+The ruthless Mujaheddin terrorists have been using several local villages to launch their murderous attacks on our glorious forces. Comrade, you are required to destroy the buildings in order to prevent the guerrillas from hiding amongst the civilians.
+:Outstanding
+Comrade, your outstanding performance has significantly reduced the number of ruthless guerrilla attacks.  Your bravery is outstanding.
+:Success
+Comrade, your adequate performance has reduced the number of brutal guerrilla attacks.  Well done.
+:Failure
+Your miserable failure on this mission has allowed the barbaric enemy to launch a number of cowardly attacks on our brave troops. Heavy casualties have been reported.
+:EOF

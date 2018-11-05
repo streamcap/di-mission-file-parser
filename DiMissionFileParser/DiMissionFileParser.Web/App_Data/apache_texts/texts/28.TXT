@@ -1,0 +1,17 @@
+:Title
+Supply Dump Attack
+:Description
+Helicopters: 2
+:Para
+Targets: Supply dump, Air defenses
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 22:30
+:Para
+Flight time: 19 mins
+:Para
+Weather: Clear
+:Para
+Several small forward supply dumps have been located just behind enemy lines. You and your wingman are required to destroy four of them using rockets. The sites are known to be well defended with a heavy concentration of AAA and SAM's.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+Supply Convoy Escort
+:Description
+Helicopters:
+:Para
+Targets:
+:Para
+Weapons:
+:Para
+Take-off time:
+:Para
+Flight time:
+:Para
+Weather:
+:Para
+The allies urgently need to move supplies of food and ammunition to the front-line. You are required to escort the convoy and guard against enemy air attack.  You may return to base after reaching waypoint **.
+:Outstanding
+The destruction of the enemy helicopters and the saving of the vital supply convoy has enabled our troops to sustain their attack.  Congratulations on a job well done.
+:Success
+The supply convoy has reached its destination intact.  Your contribution on this mission  was much appreciated.
+:Failure
+Your failure to protect the vital convoy has had a devastating effect on allied morale.  Without the necessary supply of food and ammunition, our front-line troops will suffer greatly.
+:EOF

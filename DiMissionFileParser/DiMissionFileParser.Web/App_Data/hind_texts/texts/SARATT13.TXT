@@ -1,0 +1,17 @@
+:Title
+Weapons Training - 500kg Fuel-Air Bombs
+:Description
+Helicopters: 1
+:Para
+Targets: Vehicles at X
+:Para
+Weapons: FAE500 bombs
+:Para
+Take-off time: 13:00
+:Para
+Flight time: 11 mins
+:Para
+Weather: Overcast
+:Para
+This awesome weapon is detonated above ground, generating an incredible blast effect and spreading a highly explosive mixture of petrochemicals. Comrade, your Hind is loaded with two of these on the inner pylons and they are released simultaneously. Use these powerful weapons to attack the buildings at waypoint X. Pay attention to the minimum release height of  300m and speed of 300kph.
+:EOF

@@ -1,0 +1,7 @@
+:Situation
+Comrade, aggressive rebel forces have successfully outflanked our brave troops. If they succeed in trapping our armoured column then our courageous troops will be starved of fuel and ammunition. The rebels have intensified their attacks on the loyal Kazak forces in an attempt to overthrow the legitimate government.
+:Stalemate
+Comrade, your air support has succeeded in preventing disruption of our vital supply route. However, further missions are required to eradicate rebel forces remaining in the area.
+:Failure
+Cut off by the fanatical rebels, our troops have been forced to surrender. The Kazak government has fallen and rebel control of the country is complete. The Russian government has agreed to recognise the new regime in exchange for the safe return of their troops. Russian refugees are presently escaping from Kazakstan to Russia. Comrade, your superiors have blamed this disaster on the poor and ineffective performance of the Hind aircrew.
+:EOF

@@ -1,0 +1,17 @@
+:Title
+Operational Training - Laser Designation
+:Description
+Helicopters: 1
+:Para
+Targets: Target at X
+:Para
+Weapons: None
+:Para
+Take-off time: 14:53
+:Para
+Flight time: 11 mins
+:Para
+Weather: Clear
+:Para
+Comrade, it is necessary for you to be able to laser designate targets so that they may be destroyed by our mighty MiG 27's using precision laser-guided bombs.  You are required to fly to waypoint X and designate the target by 15:00 hours.  Listen carefully for the transmitted confirmation of bomb release and maintain laser designation until the bombs have landed.  You may then return to base.
+:EOF

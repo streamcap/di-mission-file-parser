@@ -1,0 +1,17 @@
+:Title
+Low Visibility Flying
+:Description
+Helicopters: 2
+:Para
+Targets: Practice Battlefield Armor
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 06:00
+:Para
+Flight time: 17 mins
+:Para
+Weather: Thick fog
+:Para
+Apache crews are expected to fly regardless of weather conditions. This mission will improve your "blind" flying capabilities and also your target recognition and engagement skills.   Restrict the firing of your weapons to targets at waypoint X.
+:EOF

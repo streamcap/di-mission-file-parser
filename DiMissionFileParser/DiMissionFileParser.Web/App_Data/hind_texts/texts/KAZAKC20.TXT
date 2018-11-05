@@ -1,0 +1,17 @@
+:Title
+City Ambush
+:Description
+Helicopters: 2
+:Para
+Targets: X: Building, Y: APCs,SAMs,AAA,Troops
+:Para
+Weapons: FAB500, 9M114
+:Para
+Take-off time: 14:00
+:Para
+Flight time: 8 mins
+:Para
+Weather: Clear
+:Para
+Comrade, allied tanks and APC's have been ambushed in the city. Before sending more forces into the area you are required to destroy the designated building and eliminate nearby enemy forces.
+:EOF

@@ -1,0 +1,7 @@
+:Situation
+The allies plan to strike at more key sites and airfields to weaken our feeble enemy. These missions will isolate our gullible enemy's western flank in preparation for attack by our courageous land forces.
+:Stalemate
+More attacks are necessary before we launch the full invasion.  Your mission effectiveness is below what is expected of you.
+:Failure
+Failure by you and other Hind crews has allowed our vulnerable enemy to repair installations. You are required to execute further attacks before our magnificent invasion can take place.
+:EOF

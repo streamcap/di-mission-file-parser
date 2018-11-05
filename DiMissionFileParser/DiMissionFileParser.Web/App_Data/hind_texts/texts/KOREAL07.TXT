@@ -1,0 +1,7 @@
+:Situation
+A build up of enemy troops and equipment on the Seoul side of the Han-Gang River suggests that the miserable enemy is planning a major counter-attack. Comrade, you must support our courageous troops to crush the enemy before they proceed with their operation.
+:Stalemate
+Our troops on the eastern flank have suffered crippling enemy counter-attacks. Comrades, you must redouble your efforts to smash the weak enemy and secure our positions.
+:Failure
+Your failure to secure the eastern flank has left our heroic troops exposed.  They have made a tactical retreat and regrouped. Comrades, much more is expected of the Hind crews before the allied advance towards Inch'on can continue.
+:EOF

@@ -1,0 +1,23 @@
+:Title
+SCUD Hunting
+:Description
+Helicopters: 3
+:Para
+Targets: SCUD missiles
+:Para
+Weapons: Rockets, 9M114
+:Para
+Take-off time: 23:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Clear
+:Para
+The despicable rebels are launching SCUD attacks on our main supply base. Tracking radar has highlighted the launch area. Comrade, you must search for the launch vehicles and destroy them. Numerous rebel air defences are known to be in the region.
+:Outstanding
+Comrade, your total destruction of the SCUD launchers has stopped all of the cowardly attacks. Your brave performance was exemplary.
+:Success
+Comrade, your destruction of most of the SCUD launchers has significantly reduced the frequency of the cowardly attacks.
+:Failure
+Comrade, your failure to deal effectively with the SCUD launchers has lead to an increase in the number of attacks. Your pathetic performance may force our brave allied forces to abandon the area.
+:EOF

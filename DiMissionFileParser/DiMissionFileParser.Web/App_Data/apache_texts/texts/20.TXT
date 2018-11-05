@@ -1,0 +1,17 @@
+:Title
+Evacuation Air Cover
+:Description
+Helicopters: 2
+:Para
+Targets: Aircraft
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 17:30
+:Para
+Flight time: 16 mins
+:Para
+Weather: Clear
+:Para
+Your task is to provide air cover for allied transport helicopters at the assembly area. A last ditch attempt by the Yeman Government forces to disrupt the evacuation is expected.
+:EOF

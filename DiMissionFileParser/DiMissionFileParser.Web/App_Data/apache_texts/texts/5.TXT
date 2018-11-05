@@ -1,0 +1,17 @@
+:Title
+Enemy Road-Block Attack
+:Description
+Helicopters: 2
+:Para
+Targets: APC's, Air defenses
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 10:00
+:Para
+Flight time: 14 mins
+:Para
+Weather: Clear
+:Para
+Government forces have set-up a checkpoint between Al 'Adan and the airfield to prevent civilians reaching the assembly area. The checkpoint consists of several APC's with air defense support. The checkpoint must be destroyed as quickly as possible without damaging the highway.
+:EOF

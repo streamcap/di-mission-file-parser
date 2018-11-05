@@ -1,0 +1,23 @@
+:Title
+Airfield Defense Suppression
+:Description
+Helicopters: 4
+:Para
+Targets: Air defense
+:Para
+Weapons: 16 Hellfire
+:Para
+Take-off time: 22:05
+:Para
+Flight time: 10 mins
+:Para
+Weather: Clear
+:Para
+A high level raid by F18's and Tornados is planned against several bunkers and hardened aircraft shelters at Salamis airfield. The area is well protected with strong air defenses. You have been tasked with clearing the area of SAM's prior to the bombing raid. The timing and effectiveness of your attack is important as the bombers will be only minutes behind you. Concentrate on the SAM sites, ignoring the AAA as much as possible.
+:Outstanding
+All of the SAM sites were destroyed before the bombers arrived. The high level bombing raid was a complete success due to your excellent performance. Well done.
+:Success
+Most of the SAM sites were destroyed prior to the arrival of the bombers. The mission was completed without allied losses.
+:Failure
+Your failure to take out the SAM sites resulted in the high level raid being aborted as the aircraft were approaching their target. High Command is decidedly unhappy with your performance.
+:EOF

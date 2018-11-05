@@ -1,0 +1,17 @@
+:Title
+Intercept Enemy Barges
+:Description
+Helicopters: 4
+:Para
+Targets: Military supply barges
+:Para
+Weapons: 8 Hellfire, 38 rockets
+:Para
+Take-off time: 05:45
+:Para
+Flight time: 11 mins
+:Para
+Weather: Overcast
+:Para
+The enemy ground troops are using any means possible to flee from the encirclement. This has included the commandeering and loading with equipment a number of barges. The Apache helicopters must locate, identify and attack the barges. Compared to civilian barges they are easily identified by the military equipment on deck.
+:EOF
